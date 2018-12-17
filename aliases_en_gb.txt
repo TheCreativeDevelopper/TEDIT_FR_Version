@@ -1,0 +1,845 @@
+alban;St.Alban
+bordeaux;Bordeaux
+bourges;Bourges
+brest;Brest
+civaux;Civaux
+clermont;Clermont-Ferrand
+golfech;Golfech
+larochelle;La Rochelle
+laurent;St.Laurent
+lehavre;Le Havre
+lemans;Le Mans
+limoges;Limoges
+marseille;Marseille
+montpellier;Montpellier
+nantes;Nantes
+nice;Nice
+paluel;Paluel
+rennes;Rennes
+roscoff;Roscoff
+toulouse;Toulouse
+
+aalborg;Aalborg
+aberdeen;Aberdeen
+amsterdam;Amsterdam
+aport_phx;Phoenix Airport
+bakersfield;Bakersfield
+barstow;Barstow
+bergen;Bergen
+berlin;Berlin
+bern;Bern
+bialystok;Bialystok
+birmingham;Birmingham
+bratislava;Bratislava
+bremen;Bremen
+brno;Brno
+brussel;Brussel
+budapest;Budapest
+bystrica;Banska Bystrica
+calais;Calais
+cambridge;Cambridge
+camp_verde;Camp Verde
+cardiff;Cardiff
+carlisle;Carlisle
+carlsbad;Carlsbad
+carson_city;Carson City
+debrecen;Debrecen
+dijon;Dijon
+dortmund;Dortmund
+dover;Dover
+dresden;Dresden
+duisburg;Duisburg
+dusseldorf;Dusseldorf
+edinburgh;Edinburgh
+ehrenberg;Ehrenberg
+el_centro;El Centro
+elko;Elko
+ely;Ely
+erfurt;Erfurt
+esbjerg;Esbjerg
+eureka;Eureka
+europoort;Europoort
+felixstowe;Felixstowe
+flagstaff;Flagstaff
+frankfurt;Frankfurt
+frederikshv;Frederikshavn
+fresno;Fresno
+g_canyon_vlg;Grand Canyon Village
+gdansk;Gdansk
+gdyne;Gdynia
+gdynia;Gdynia
+gedser;Gedser
+geneve;Geneve
+glasgow;Glasgow
+goteborg;Goteborg
+graz;Graz
+grimsby;Grimsby
+groningen;Groningen
+hamburg;Hamburg
+hannover;Hannover
+harwich;Harwich
+helsingborg;Helsingborg
+hirtshals;Hirtshals
+holbrook;Holbrook
+hornbrook;Hornbrook
+hull;Hull
+huron;Huron
+ijmuiden;IJmuiden
+innsbruck;Innsbruck
+jackpot;Jackpot
+jonkoping;Jonkoping
+kalmar;Kalmar
+karlskrona;Karlskrona
+kassel;Kassel
+katowice;Katowice
+kayenta;Kayenta
+kiel;Kiel
+kingman;Kingman
+klagenfurt;Klagenfurt am Worthersee
+kobenhavn;Kobenhavn
+koln;Koln
+kosice;Kosice
+krakow;Krakow
+kristiansand;Kristiansand
+las_vegas;Las Vegas
+leipzig;Leipzig
+liege;Liege
+lille;Lille
+linkoping;Linkoping
+linz;Linz
+liverpool;Liverpool
+lodz;Lodz
+london;London
+los_angeles;Los Angeles
+lublin;Lublin
+luxembourg;Luxembourg
+lyon;Lyon
+magdeburg;Magdeburg
+malmo;Malmo
+manchester;Manchester
+mannheim;Mannheim
+metz;Metz
+milano;Milano
+munchen;Munchen
+newcastle;Newcastle
+nogales;Nogales
+nurnberg;Nurnberg
+nynashamn;Nynashamn
+oakdale;Oakdale
+oakland;Oakland
+odense;Odense
+olsztyn;Olsztyn
+orebro;Orebro
+oslo;Oslo
+osnabruck;Osnabruck
+ostrava;Ostrava
+oxnard;Oxnard
+page;Page
+paris;Paris
+pecs;Pecs
+phoenix;Phoenix
+pioche;Pioche
+plymouth;Plymouth
+poznan;Poznan
+prague;Prague
+primm;Primm
+redding;Redding
+reims;Reims
+reno;Reno
+rostock;Rostock
+rotterdam;Rotterdam
+sacramento;Sacramento
+salzburg;Salzburg
+san_diego;San Diego
+san_francisc;San Francisco
+san_rafael;San Rafael
+san_simon;San Simon
+santa_cruz;Santa Cruz
+santa_maria;Santa Maria
+sheffield;Sheffield
+show_low;Show Low
+sierra_vista;Sierra Vista
+sodertalje;Sodertalje
+southampton;Southampton
+stavanger;Stavanger
+stockholm;Stockholm
+stockton;Stockton
+strasbourg;Strasbourg
+stuttgart;Stuttgart
+swansea;Swansea
+szczecin;Szczecin
+szeged;Szeged
+tonopah;Tonopah
+torino;Torino
+trelleborg;Trelleborg
+truckee;Truckee
+tucson;Tucson
+ukiah;Ukiah
+uppsala;Uppsala
+vasteraas;Vasteraas
+vaxjo;Vaxjo
+venezia;Venezia
+verona;Verona
+warszawa;Warszawa
+wien;Wien
+winnemucca;Winnemucca
+wroclaw;Wroclaw
+yuma;Yuma
+zurich;Zurich
+
+batisse_base;Batisse base
+batisse_road;Batisse road
+batisse_wind;Batisse wind
+bhb_raffin;BHB - La Raffinerie
+boisserie;BOISSERIE J-P
+chimi;Chimi
+cont_port_fr;Port de Conteneur
+dans_jardin;Dans le Jardin
+eco;Eco
+gallia_ferry;Gallia Ferries
+globeur;Globeur
+gomme_monde;Gomme Monde
+huilant;Huilant
+marina_fr;Marina Fr
+mvm_carriere;MVM carriere
+nos_pat_brg;Nos Paturages
+nos_pat_cf;Nos Paturages
+nos_pat_lhv;Nos Paturages
+nucleon;Nucleon
+subse;Subse
+wilnet_trans;Wilnet Transport
+
+42p_print;42 Print
+agronord;Agronord
+aria_fd_albg;ARIA Food Aalborg
+aria_fd_esbj;ARIA Food Esbjerg
+aria_fd_jnpg;ARIA Food Jonkoping
+aria_fd_trbg;ARIA Food Trelleborg
+batisse_hs;Batisse
+bcp;BCP
+bhv;BHV
+bit_rd_grg;Bitumen garage
+bit_rd_svc;Bitumen service
+bit_rd_wrk;Bitumen work
+bjork;Bjork
+bn_farm;Bushnell Farms
+cha_el_mkt;Charged Market
+cha_el_whs;Charged
+chm_che_plnt;Chemso Ltd. Plant
+chm_che_str;Chemso Ltd.
+cm_min_qry;Coastline Mining Quarry
+cm_min_str;Coastline Mining
+cont_port;Container port
+drekkar;Drekkar Trans
+du_farm;Darchelle Uzau
+ed_mkt;Eddy's
+euroacres;EuroAcres
+eurogoodies;EuroGoodies
+fcp;FCP
+fle;FLE
+gal_oil_gst;Gallon Oil Gas station
+gal_oil_ref;Gallon Oil Refinery
+gal_oil_str;Gallon Oil
+gnt;GNT
+hms_con_svc;HMS Machinery
+ika_bohag;Ika Bohag
+itcc;ITCC
+kaarfor;Kaarfor
+konstnr;Konstnorr
+konstnr_br;Konstnorr (br)
+konstnr_hs;Konstnorr (hs)
+konstnr_wind;Konstnorr (wind)
+lisette_log;Lisette Logistics
+lkwlog;LkwLog GmbH
+marina;Marina
+ms_stein;MS Stein
+nbfc;NBFC
+nord_crown;Nordic Crown
+nord_sten;Nordic Stenbrott
+norr_food;Norrfood
+norrsken;Norrsken
+ns_chem;NS Chemicals
+ns_oil;NS Oil
+oak_port;Oakland Shippers
+pns_con_grg;Plaster & Sons garage
+pns_con_sit;Plaster & Sons (sit)
+pns_con_sit2;Plaster & Sons (sit2)
+pns_con_whs;Plaster & Sons
+polar_fish;Polar Fish
+polarislines;Polaris Lines
+posped;Posped
+quarry;Steinbruch Quarry
+re_train;Rail Export
+renar;Renar Logistik
+sag_tre;Sag & Tre
+sanbuilders;Sanbuilders
+sc_frm;Sunshine Crops
+sc_frm_grg;Sunshine Crops garage
+scania_dlr;Scania Dealer
+scania_fac;Scania Truck Factory
+sellplan;Sellplan
+sf_port;Port of San Francisco
+sg_whs;SellGoods
+skoda;Skoda
+stokes;Stokes
+tid_mkt;Tidbit
+tradeaux;Tradeaux
+trameri;Trameri
+transinet;Transinet
+tree_et;Tree-ET
+vitas_pwr;Vitas Power
+vm_car_dlr;Voltison Motors dealer
+vm_car_pln;Voltison Motors plant
+vm_car_whs;Voltison Motors
+voitureux;Voitureux
+volvo_dlr;Volvo dealer
+volvo_fac;Volvo Truck Factory
+vpc;VPC
+wal_food_mkt;Wallbert Food Market
+wal_food_whs;Wallbert Food
+wal_mkt;Wallbert Market
+wal_whs;Wallbert
+wgcc;WGCC
+
+cargo.air_mails;Air mails
+cargo.aircft_tires;Aircraft Tires
+cargo.backfl_prev;Backflow Preventers
+cargo.basil;Basil
+cargo.boric_acid;Boric Acid
+cargo.bottle_water;Bottled Water
+cargo.carb_water;Carbonated Water
+cargo.cars_fr;Cars
+cargo.chewing_gums;Chewing Gums
+cargo.chocolate;Chocolate
+cargo.coconut_milk;Coconut Milk
+cargo.coconut_oil;Coconut Oil
+cargo.comp_process;Computer Processors
+cargo.concen_juice;Concentrate Juices
+cargo.corks;Corks
+cargo.cut_flowers;Cut flowers
+cargo.diesel_gen;Diesel Generators
+cargo.emp_wine_bar;Empty Wine Barrels
+cargo.emp_wine_bot;Empty Wine Bottles
+cargo.excav_soil;Excavated Soil
+cargo.fuel_oil;Fuel Oil
+cargo.granite_cube;Granite Cubes
+cargo.gummy_bears;Gummy Bears
+cargo.harvest_bins;Harvesting Bins
+cargo.hi_volt_cabl;High Voltage Cables
+cargo.iced_coffee;Canned Iced Coffee
+cargo.lavender;Lavender
+cargo.limonades;Limonades
+cargo.live_catt_fr;Live Cattle
+cargo.med_equip;Medical Equipment
+cargo.med_vaccine;Medical Vaccines
+cargo.natur_rubber;Natural Rubber
+cargo.nonalco_beer;Non-alcoholic Beer
+cargo.nylon_cord;Nylon Cord
+cargo.olives;Olives
+cargo.packag_food;Packaged Food
+cargo.post_packag;Post Packages
+cargo.press_sl_val;High Pressure Slide Valves
+cargo.protec_cloth;Protective Clothing
+cargo.pumps;Pumps
+cargo.soy_milk;Soy Milk
+cargo.spher_valves;Spherical Valves
+cargo.steel_cord;Steel Cord
+cargo.stones;Stones
+
+cargo.acetylene;Acetylene
+cargo.acid;Acid
+cargo.aircond;Air Conditioners
+cargo.almond;Almond
+cargo.ammunition;Ammunition
+cargo.apples;Apples
+cargo.apples_c;Apples (container)
+cargo.aromatics;Aromatics
+cargo.arsenic;Arsenic
+cargo.atl_cod_flt;Atlantic Cod Fillet
+cargo.barley;Barley
+cargo.beans;Beans
+cargo.beef_meat;Beef
+cargo.beverages;Beverages
+cargo.beverages_c;Beverages (container)
+cargo.big_bag_seed;Big-Bags of Seeds
+cargo.bottles;Bottles
+cargo.brake_fluid;Brake fluid
+cargo.bricks;Bricks
+cargo.bulldozer;Bulldozer
+cargo.cable;Cable
+cargo.canned_beans;Canned Beans
+cargo.canned_beef;Canned Beef
+cargo.canned_pork;Canned Pork
+cargo.canned_tuna;Canned Tuna
+cargo.carcomp;Car Parts
+cargo.carrots;Carrots
+cargo.carrots_c;Carrots (container)
+cargo.cars_big;Cars
+cargo.cars_mix;Cars
+cargo.cars_small;Cars
+cargo.cauliflower;Cauliflower
+cargo.caviar;Caviar
+cargo.cement;Cement
+cargo.cheese;Cheese
+cargo.chem_sorb_c;Chemical Sorbent (container)
+cargo.chem_sorbent;Chemical Sorbent
+cargo.chemicals;Chemicals
+cargo.chicken_meat;Chicken Meat
+cargo.chimney_syst;Chimney Systems
+cargo.chlorine;Chlorine
+cargo.clothes;Clothes
+cargo.clothes_c;Clothes (container)
+cargo.coal;Coal
+cargo.colors;Colors
+cargo.computers;Computers
+cargo.concrete;Concrete
+cargo.const_house;Construction Houses
+cargo.cont_trees;Containerized Trees
+cargo.contamin;Contaminated Material
+cargo.copp_rf_gutt;Copper Roof Gutters
+cargo.cott_cheese;Cottage Cheese
+cargo.ctubes;Concrete Tubes
+cargo.curtains;Curtains
+cargo.cyanide;Cyanide
+cargo.desinfection;Disinfectant
+cargo.diesel;Diesel
+cargo.digger500;Digger 500
+cargo.digger1000;Digger 1000
+cargo.diggers;Diggers
+cargo.driller;Driller
+cargo.dryers;Dryers
+cargo.drymilk;Dry Milk
+cargo.dynamite;Dynamite
+cargo.elect_wiring;Electrical Wiring
+cargo.electro_comp;Electronic Components
+cargo.electronics;Electronics
+cargo.empty_barr;Empty Barrels
+cargo.empty_palet;Empty Palettes
+cargo.emptytank;Empty Tank
+cargo.ethane;Ethane
+cargo.excavator;Excavator
+cargo.explosives;Explosives
+cargo.fertilizer;Fertilizer
+cargo.fireworks;Fireworks
+cargo.fish_chips;Fish Fingers
+cargo.floorpanels;Floor Panels
+cargo.flour;Flour
+cargo.fluorine;Fluorine
+cargo.food;Packaged Food
+cargo.forklifts;Forklifts
+cargo.fresh_fish;Fresh Fish
+cargo.frozen_food;Frozen Food
+cargo.frozen_fruit;Frozen Fruits
+cargo.frozen_hake;Frozen Hake
+cargo.frozen_veget;Frozen Vegetable
+cargo.fruits;Fruits
+cargo.fuel_tanks;Fuel Tanks
+cargo.fueltanker;Fuel Tanker
+cargo.furniture;Furniture
+cargo.garlic;Garlic
+cargo.glass;Glass Panels
+cargo.glass_packed;Packed Glass
+cargo.goat_cheese;Goar Cheese
+cargo.grapes;Grapes
+cargo.graph_grease;Graphite Grease
+cargo.grass_rolls;Grass Rolls
+cargo.gravel;Gravel
+cargo.guard_rails;Guard Rails
+cargo.gypsum;Gypsum
+cargo.hay;Hay
+cargo.hchemicals;Hot Chemicals
+cargo.helicopter;Helicopter
+cargo.hipresstank;Pressure Tank
+cargo.hmetal;Heavy Metals
+cargo.home_acc;Home Accessories
+cargo.honey;Honey
+cargo.househd_appl;Household Appliances
+cargo.hwaste;Hospital Waste
+cargo.hydrochlor;Hydochloric Acid
+cargo.hydrogen;Hydrogen
+cargo.ibc_cont;IBC Containers
+cargo.icecream;Icecream
+cargo.iron_pipes;Iron Pipes
+cargo.kerosene;Kerosene
+cargo.ketchup;Ketchup
+cargo.lamb_stom;Lamb Stomachs
+cargo.largetubes;Large Tubes
+cargo.lead;Lead
+cargo.limestone;Limestone
+cargo.live_cattle;Live Cattle
+cargo.liver_paste;Liver Paste
+cargo.logs;Logs
+cargo.lpg;LPG
+cargo.lumber;Lumber
+cargo.machine_pts;Machine Parts
+cargo.magnesium;Magnesium
+cargo.maple_syrup;Maple Syrup
+cargo.mason_jars;Mason Jars
+cargo.meat;Meat
+cargo.mercuric;Mercuric Chloride
+cargo.metal_cans;Metal Cans
+cargo.milk;Milk
+cargo.mondeos;Cars
+cargo.motor_oil;Motor Oil
+cargo.motor_oil_c;Motor Oil (container)
+cargo.neon;Neon
+cargo.nitrocel;Nitrocellulose
+cargo.nitrogen;Nitrogen
+cargo.office_suppl;Office Supplies
+cargo.oil;Oil
+cargo.oil_filt_c;Oil Filters (container)
+cargo.oil_filters;Oil Filters
+cargo.onion;Onions
+cargo.oranges;Oranges
+cargo.ore;Ore
+cargo.outdr_flr_tl;Outdoor Floor Tiles
+cargo.overweight;Low Bed Trailer
+cargo.paper;Office Paper
+cargo.pears;Pears
+cargo.peas;Peas
+cargo.pesticide;Pesticides
+cargo.pet_food;Pet Food
+cargo.pet_food_c;Pet Food (container)
+cargo.petrol;Petrol
+cargo.phosphor;White Phosphorus
+cargo.pipes;Iron Pipes
+cargo.plant_substr;Plant Substrate
+cargo.plast_film;Plastic Film Rolls
+cargo.plast_film_c;Plastic Film Rolls (container)
+cargo.plastic_gra;Plastic Granules
+cargo.plows;Plows
+cargo.plumb_suppl;Plumber Supplies
+cargo.plums;Plums
+cargo.pnut_butter;Peanut Butter
+cargo.polyst_box;Polystyrene Boxes
+cargo.pork_meat;Pork
+cargo.pot_flowers;Pot Flowers
+cargo.potahydro;Potassium Hydroxide
+cargo.potassium;Potassium
+cargo.potatoes;Potatoes
+cargo.precast_strs;Precast Stairs
+cargo.propane;Propane
+cargo.radiators;Radiators
+cargo.refl_posts;Reflective Posts
+cargo.rice;Rice
+cargo.rice_c;Rice (container)
+cargo.roadroller;Roadroller
+cargo.roller;Roller DYNA CC-2200
+cargo.roof_tiles;Roof Tiles
+cargo.roofing_felt;Roofing Felt
+cargo.rooflights;Rooflights
+cargo.rye;Rye
+cargo.salm_fillet;Salmon Fillet
+cargo.salt_spice_c;Salt & Spices (container)
+cargo.salt_spices;Salt & Spices
+cargo.sand;Sand
+cargo.sandwch_pnls;Sandwich Panels
+cargo.sausages;Sausages
+cargo.sawpanels;Sawdust Panels
+cargo.scaffoldings;Scaffoldings
+cargo.scania_tr;Scania Trucks
+cargo.scrap_metals;Scrap Metals
+cargo.sheep_wool;Sheep Wool
+cargo.shock_absorb;Shock Absorbers
+cargo.silica;Silica
+cargo.smokd_eel;Smoked Eel
+cargo.smokd_sprats;Smoked Sprats
+cargo.sodchlor;Sodium Hypochlorite
+cargo.sodhydro;Sodium Hydroxide
+cargo.sodium;Sodium
+cargo.solvents;Solvents
+cargo.stone_dust;Stone Dust
+cargo.stone_wool;Stone Wool
+cargo.straw_bales;Straw Bales
+cargo.sugar;Sugar
+cargo.sulfuric;Sulfuric Acid
+cargo.tableware;Tableware
+cargo.tomatoes;Tomatoes
+cargo.toys;Toys
+cargo.tracks;Tracks
+cargo.tractor;Tractor RS-666
+cargo.tractors;Tractors
+cargo.transmis;Transmissions
+cargo.truck_batt;Truck Batteries
+cargo.truck_batt_c;Truck Batteries (container)
+cargo.truck_rims;Truck Rims
+cargo.truck_rims_c;Truck Rims (container)
+cargo.truck_tyres;Truck Tyres
+cargo.tube;Gas Pipeline Parts
+cargo.tvs;TVs
+cargo.tyres;Tyres
+cargo.used_battery;Used Car Batteries
+cargo.used_pack;Used Packaging
+cargo.used_packag;Used Packaging
+cargo.used_plast;Used Plastics
+cargo.used_plast_c;Used Plastics (container)
+cargo.vegetable;Vegetable
+cargo.vent_tube;Ventilation Tube
+cargo.ventilation;Ventilation Tube
+cargo.vinegar;Vinegar
+cargo.vinegar_c;Vinegar (container)
+cargo.volvo_cars;Luxury SUVs
+cargo.volvo_tr;Volvo Trucks
+cargo.wallpanels;Wall Panels
+cargo.watermelons;Watermelons
+cargo.wheat;Wheat
+cargo.windml_eng;Wind Turbine Nacelle
+cargo.windml_tube;Wind Turbine Tower
+cargo.wood_bark;Wood Bark
+cargo.wooden_beams;Wooden Beams
+cargo.wshavings;Wood Shavings
+cargo.yacht;Yacht
+cargo.yogurt;Yogurt
+cargo.young_seed;Young Seedlings
+
+cargo.b_ammunition;Ammunition (BDF)
+cargo.b_apples;Apples (BDF)
+cargo.b_beef_meat;Beef (BDF)
+cargo.b_beverages;Beverages (BDF)
+cargo.b_canned_bee;Canned Beef (BDF)
+cargo.b_canned_por;Canned Pork (BDF)
+cargo.b_canned_tun;Canned Tuna (BDF)
+cargo.b_carrots;Carrots (BDF)
+cargo.b_caviar;Caviar (BDF)
+cargo.b_cheese;Cheese (BDF)
+cargo.b_chicken_me;Chicken Meat (BDF)
+cargo.b_clothes;Clothes (BDF)
+cargo.b_cott_chees;Cottage Cheese (BDF)
+cargo.b_desinfecti;Disinfectant (BDF)
+cargo.b_drymilk;Dry Milk (BDF)
+cargo.b_dynamite;Dynamite (BDF)
+cargo.b_elect_wiri;Electrical Wiring (BDF)
+cargo.b_empty_pale;Empty Palettes (BDF)
+cargo.b_explosives;Explosives (BDF)
+cargo.b_fertilizer;Fertilizer (BDF)
+cargo.b_fish_chips;Fish Fingers (BDF)
+cargo.b_flour;Flour (BDF)
+cargo.b_fresh_fish;Fresh Fish (BDF)
+cargo.b_frozen_hak;Frozen Hake (BDF)
+cargo.b_furniture;Furniture (BDF)
+cargo.b_garlic;Garlic (BDF)
+cargo.b_glass;Glass Panels (BDF)
+cargo.b_icecream;Icecream (BDF)
+cargo.b_lamb_stom;Lamb Stomachs (BDF)
+cargo.b_liver_past;Liver Paste (BDF)
+cargo.b_lumber;Lumber (BDF)
+cargo.b_motor_oil;Motor Oil (BDF)
+cargo.b_oil_filter;Oil Filters (BDF)
+cargo.b_onion;Onions (BDF)
+cargo.b_oranges;Oranges (BDF)
+cargo.b_paper;Office Paper (BDF)
+cargo.b_pears;Pears (BDF)
+cargo.b_peas;Peas (BDF)
+cargo.b_pet_food;Pet Food (BDF)
+cargo.b_plumb_supp;Plumber Supplies (BDF)
+cargo.b_pork_meat;Pork Meat (BDF)
+cargo.b_potatoes;Potatoes (BDF)
+cargo.b_rice;Rice (BDF)
+cargo.b_salm_fille;Salmon Fillet (BDF)
+cargo.b_salt_spice;Salt & Spices (BDF)
+cargo.b_sausages;Sausages (BDF)
+cargo.b_scaffoldin;Scaffoldings (BDF)
+cargo.b_smokd_spra;Smoked Sprats (BDF)
+cargo.b_sugar;Sugar (BDF)
+cargo.b_tableware;Tableware (BDF)
+cargo.b_tomatoes;Tomatoes (BDF)
+cargo.b_transmis;Transmissions (BDF)
+cargo.b_truck_batt;Truck Batteries (BDF)
+cargo.b_truck_rims;Truck Rims (BDF)
+cargo.b_truck_tyre;Truck Tyres (BDF)
+cargo.b_tyres;Tyres (BDF)
+cargo.b_used_packa;Used Packaging (BDF)
+cargo.b_vinegar;Vinegar (BDF)
+cargo.b_yogurt;Yogurt (BDF)
+cargo.t_arborite;Arborite (BDF)
+cargo.t_baskets;Baskets (BDF)
+cargo.t_bath_fai;Faience Bath (BDF)
+cargo.t_bayleaf;Bayleaf (BDF)
+cargo.t_bicycles;Bicycles (BDF)
+cargo.t_boxes;Boxes (BDF)
+cargo.t_brakefluid;Brake Fluid (BDF)
+cargo.t_chem_sorb;Chemical Sorbent (BDF)
+cargo.t_clothes;Clothes (BDF)
+cargo.t_cork_prod;Cork Products (BDF)
+cargo.t_cotton;Cotton (BDF)
+cargo.t_cottonwool;Cotton Wool (BDF)
+cargo.t_dresses;Dresses (BDF)
+cargo.t_driedmushr;Dried Mushrooms (BDF)
+cargo.t_drymilk;Dry Milk (BDF)
+cargo.t_el_cable;Electrical Cable (BDF)
+cargo.t_electronic;Electronics (BDF)
+cargo.t_empty_barr;Empty Barrels (BDF)
+cargo.t_feather;Feather (BDF)
+cargo.t_fil_lamp;Filament Lamps (BDF)
+cargo.t_flaxunpres;Flax Unpressed (BDF)
+cargo.t_floss;Floss (BDF)
+cargo.t_foam_plast;Foam Plastic (BDF)
+cargo.t_frozencorn;Frozen Corn (BDF)
+cargo.t_furniture;Furniture (BDF)
+cargo.t_furs;Furs (BDF)
+cargo.t_hats;Hats (BDF)
+cargo.t_hay;Hay (BDF)
+cargo.t_lampshades;Lamp Shades (BDF)
+cargo.t_mane_hair;Mane Hair (BDF)
+cargo.t_metal_cans;Metal Cans (BDF)
+cargo.t_mus_instr;Musical Instruments (BDF)
+cargo.t_overshoes;Overshoes (BDF)
+cargo.t_plumbsuppl;Plumber Supplies (BDF)
+cargo.t_polyst_box;Polystyrene Boxes (BDF)
+cargo.t_potatovine;Potato Vine (BDF)
+cargo.t_potflowers;Pot Flowers (BDF)
+cargo.t_pu_foam;PU Foam (BDF)
+cargo.t_radiators;Radiators (BDF)
+cargo.t_shoes;Shoes (BDF)
+cargo.t_stationery;Stationery (BDF)
+cargo.t_stone_wool;Stone Wool (BDF)
+cargo.t_suitcases;Suitcases (BDF)
+cargo.t_tin_cans;Tin Cans (BDF)
+cargo.t_tinwork;Tinwork (BDF)
+cargo.t_tispapcore;Tissue-paper Core (BDF)
+cargo.t_toys;Toys (BDF)
+cargo.t_used_plast;Used Plastics (BDF)
+cargo.t_woodwork;Woodwork (BDF)
+cargo.t_wshavings;Wood Shavings (BDF)
+cargo.t_wstclothes;Waste Clothes (BDF)
+cargo.fabia_jtz;Skoda Fabia
+cargo.mini_jtz;Mini Cooper
+
+priv_home;Private home
+priv_farm;Private farm
+larche;Larche
+hotel;Hotel
+service;Service
+la_turbie;La Turbie
+la_mede;La Mede
+man_dlr;MAN Truck Dealer
+laprimaube;La Primaube
+happy_fisher;Happy Fisher
+lebourg;Le Bourg
+st_cere;St.Cere
+laguenne;Laguenne
+bourganeuf;Bourganeuf
+lepont;Le Pont
+strongjob;Strongjob
+iveco_dlr;IVECO Truck Dealer
+poissy;Poissy
+renault_dlr;Renault Truck Dealer
+petrol;Petrol
+issoudun;Issoudun
+nos_pat_tech;Nos Paturages
+chap_ursin;La Chapelle-Saint-Ursin
+selles_cher;Selles-sur-Cher
+les_delas;Les Delas
+bona_terra;Bona Terra
+gonesse;Gonesse
+vallet;Vallet
+pont_lab;Pont-de-Labeaume
+pantaleon;Saint-Pantaleon-les-Vignes
+nyons;Nyons
+rosans;Rosans
+rousset;Rousset
+urbise;Urbise
+briant;Briant
+sillex;Sillex
+gibles;Gibles
+auxerre;Auxerre
+courtenay;Courtenay
+autoworld;Autoworld
+tuttlingen;Tuttlingen
+voyalane;Voyalane
+la_villeneuve;La Villeneuve
+
+cargo.asph_miller;Asphalt Miller - Writigen 808
+cargo.cable_reel;Industrial Cable Reel
+cargo.concr_beams;Concrete Beams
+cargo.dozer;Dozer Crawl - Z35K
+cargo.locomotive;Locomotive - Bossloc
+cargo.metal_center;Metal Centering
+cargo.mobile_crane;Mobile Crane - Rex-Tex 45
+cargo.transformat;Transformer - PK900
+aci;ACI SRL
+cargotras;Cargotras
+cesare_smar;Cesare Supermercato
+libellula;Libellula
+spinelli;Spinelli
+cargo.nuts;Nuts
+cargo.princess;Yacht - Queen V39
+ancona;Ancona
+bari;Bari
+bologna;Bologna
+cassino;Cassino
+catania;Catania
+catanzaro;Catanzaro
+firenze;Firenze
+genova;Genova
+livorno;Livorno
+messina;Messina
+napoli;Napoli
+palermo;Palermo
+parma;Parma
+pescara;Pescara
+roma;Roma
+sangiovanni;Villa San Giovanni
+suzzara;Suzzara
+taranto;Taranto
+terni;Terni
+aaa;AA - Auto di Alonso
+acc;ACC
+cnp;CNP
+comoto;Comoto
+cont_port_it;Terminal Container
+costruzi_bas;Costruzione di Edifici
+costruzi_fla;Costruzione di Edifici
+costruzi_hal;Costruzione di Edifici
+costruzi_win;Costruzione di Edifici
+c_navale;Cantiere Navale
+eolo_lines;Eolo Lines
+exomar;Exomar
+fattoria_f;Fattoria Felice
+fui;FUI SpA
+ini;Ini
+marina_it;Marina
+marmo;Marmo SpA
+piac;PIAC
+pp_chimica;PP Chimica Italia
+quadrelli;Quadrelli SpA
+sal;S.A.L. S.R.L.
+te_logistica;TE Logistica
+tras_med;Trasporti Mediterraneo
+cargo.brake_pads;Brake Pads
+cargo.can_sardines;Canned Sardines
+cargo.carbn_pwdr_c;Carbon Black Powder
+cargo.car_it;Cars
+cargo.exhausts_c;Exhaust Systems
+cargo.froz_octopi;Frozen Octopi
+cargo.frsh_herbs;Fresh Herbs
+cargo.gnocchi;Gnocchi
+cargo.iveco_vans;Braco Vans
+cargo.marb_blck;Marble Blocks
+cargo.marb_slab;Marble Slab
+cargo.metal_pipes;Iron Pipes
+cargo.motorcycles;Motorcycles
+cargo.moto_tires;Motorcycle Tyres
+cargo.mozzarela;Mozzarela
+cargo.mtl_coil;Metal Coil
+cargo.olive_oil;Olive Oil
+cargo.pasta;Pasta
+cargo.perfor_frks;Performance Forks
+cargo.pesto;Pesto
+cargo.prosciutto;Prosciutto
+cargo.scooters;Scooters
+cargo.seal_bearing;Sealed Bearings
+cargo.sq_tub;Square Tubing
+cargo.wrk_cloth;Work Clothes
+cargo.boiler_parts;Boiler Part
+cargo.cat_785c;Haul Truck Chassis
+cargo.condensator;Industrial Condenser
+cargo.ex_bucket;Excavator Bucket
+cargo.heat_exch;Heat Exchanger
+cargo.lattice;Construction Staircase
+cargo.m_59_80_r63;Huge Tyres
+cargo.mystery_box;Massive Tech Part
+cargo.mystery_cyl;High-Tech Device
+cargo.pilot_boat;Service Boat
+cargo.silo;Giant Silo
+tesore_gust;Tesoro Gustoso

@@ -1,0 +1,845 @@
+alban;St.Alban
+bordeaux;Bordeaux
+bourges;Bourges
+brest;Brest
+civaux;Civaux
+clermont;Clermont-Ferrand
+golfech;Golfech
+larochelle;La Rochelle
+laurent;St.Laurent
+lehavre;Le Havre
+lemans;Le Mans
+limoges;Limoges
+marseille;Marseille
+montpellier;Montpellier
+nantes;Nantes
+nice;Nice
+paluel;Paluel
+rennes;Rennes
+roscoff;Roscoff
+toulouse;Toulouse
+
+aalborg;Aalborg
+aberdeen;Aberdeen
+amsterdam;Amsterdam
+aport_phx;Phoenix Airport
+bakersfield;Bakersfield
+barstow;Barstow
+bergen;Bergen
+berlin;Berlin
+bern;Bern
+bialystok;Bialystok
+birmingham;Birmingham
+bratislava;Bratislava
+bremen;Bremen
+brno;Brno
+brussel;Brussel
+budapest;Budapest
+bystrica;Banska Bystrica
+calais;Calais
+cambridge;Cambridge
+camp_verde;Camp Verde
+cardiff;Cardiff
+carlisle;Carlisle
+carlsbad;Carlsbad
+carson_city;Carson City
+debrecen;Debrecen
+dijon;Dijon
+dortmund;Dortmund
+dover;Dover
+dresden;Dresden
+duisburg;Duisburg
+dusseldorf;Dusseldorf
+edinburgh;Edinburgh
+ehrenberg;Ehrenberg
+el_centro;El Centro
+elko;Elko
+ely;Ely
+erfurt;Erfurt
+esbjerg;Esbjerg
+eureka;Eureka
+europoort;Europoort
+felixstowe;Felixstowe
+flagstaff;Flagstaff
+frankfurt;Frankfurt
+frederikshv;Frederikshavn
+fresno;Fresno
+g_canyon_vlg;Grand Canyon Village
+gdansk;Gdansk
+gdyne;Gdynia
+gdynia;Gdynia
+gedser;Gedser
+geneve;Geneve
+glasgow;Glasgow
+goteborg;Goteborg
+graz;Graz
+grimsby;Grimsby
+groningen;Groningen
+hamburg;Hamburg
+hannover;Hannover
+harwich;Harwich
+helsingborg;Helsingborg
+hirtshals;Hirtshals
+holbrook;Holbrook
+hornbrook;Hornbrook
+hull;Hull
+huron;Huron
+ijmuiden;IJmuiden
+innsbruck;Innsbruck
+jackpot;Jackpot
+jonkoping;Jonkoping
+kalmar;Kalmar
+karlskrona;Karlskrona
+kassel;Kassel
+katowice;Katowice
+kayenta;Kayenta
+kiel;Kiel
+kingman;Kingman
+klagenfurt;Klagenfurt am Worthersee
+kobenhavn;Kobenhavn
+koln;Koln
+kosice;Kosice
+krakow;Krakow
+kristiansand;Kristiansand
+las_vegas;Las Vegas
+leipzig;Leipzig
+liege;Liege
+lille;Lille
+linkoping;Linkoping
+linz;Linz
+liverpool;Liverpool
+lodz;Lodz
+london;London
+los_angeles;Los Angeles
+lublin;Lublin
+luxembourg;Luxembourg
+lyon;Lyon
+magdeburg;Magdeburg
+malmo;Malmo
+manchester;Manchester
+mannheim;Mannheim
+metz;Metz
+milano;Milano
+munchen;Munchen
+newcastle;Newcastle
+nogales;Nogales
+nurnberg;Nurnberg
+nynashamn;Nynashamn
+oakdale;Oakdale
+oakland;Oakland
+odense;Odense
+olsztyn;Olsztyn
+orebro;Orebro
+oslo;Oslo
+osnabruck;Osnabruck
+ostrava;Ostrava
+oxnard;Oxnard
+page;Page
+paris;Paris
+pecs;Pecs
+phoenix;Phoenix
+pioche;Pioche
+plymouth;Plymouth
+poznan;Poznan
+prague;Prague
+primm;Primm
+redding;Redding
+reims;Reims
+reno;Reno
+rostock;Rostock
+rotterdam;Rotterdam
+sacramento;Sacramento
+salzburg;Salzburg
+san_diego;San Diego
+san_francisc;San Francisco
+san_rafael;San Rafael
+san_simon;San Simon
+santa_cruz;Santa Cruz
+santa_maria;Santa Maria
+sheffield;Sheffield
+show_low;Show Low
+sierra_vista;Sierra Vista
+sodertalje;Sodertalje
+southampton;Southampton
+stavanger;Stavanger
+stockholm;Stockholm
+stockton;Stockton
+strasbourg;Strasbourg
+stuttgart;Stuttgart
+swansea;Swansea
+szczecin;Szczecin
+szeged;Szeged
+tonopah;Tonopah
+torino;Torino
+trelleborg;Trelleborg
+truckee;Truckee
+tucson;Tucson
+ukiah;Ukiah
+uppsala;Uppsala
+vasteraas;Vasteraas
+vaxjo;Vaxjo
+venezia;Venezia
+verona;Verona
+warszawa;Warszawa
+wien;Wien
+winnemucca;Winnemucca
+wroclaw;Wroclaw
+yuma;Yuma
+zurich;Zurich
+
+batisse_base;Batisse base
+batisse_road;Batisse road
+batisse_wind;Batisse wind
+bhb_raffin;BHB - La Raffinerie
+boisserie;BOISSERIE J-P
+chimi;Chimi
+cont_port_fr;Port de Conteneur
+dans_jardin;Dans le Jardin
+eco;Eco
+gallia_ferry;Gallia Ferries
+globeur;Globeur
+gomme_monde;Gomme Monde
+huilant;Huilant
+marina_fr;Marina Fr
+mvm_carriere;MVM carriere
+nos_pat_brg;Nos Paturages
+nos_pat_cf;Nos Paturages
+nos_pat_lhv;Nos Paturages
+nucleon;Nucleon
+subse;Subse
+wilnet_trans;Wilnet Transport
+
+42p_print;42 Print
+agronord;Agronord
+aria_fd_albg;ARIA Food Aalborg
+aria_fd_esbj;ARIA Food Esbjerg
+aria_fd_jnpg;ARIA Food Jonkoping
+aria_fd_trbg;ARIA Food Trelleborg
+batisse_hs;Batisse
+bcp;BCP
+bhv;BHV
+bit_rd_grg;Bitumen garage
+bit_rd_svc;Bitumen service
+bit_rd_wrk;Bitumen work
+bjork;Bjork
+bn_farm;Bushnell Farms
+cha_el_mkt;Charged Market
+cha_el_whs;Charged
+chm_che_plnt;Chemso Ltd. Plant
+chm_che_str;Chemso Ltd.
+cm_min_qry;Coastline Mining Quarry
+cm_min_str;Coastline Mining
+cont_port;Container port
+drekkar;Drekkar Trans
+du_farm;Darchelle Uzau
+ed_mkt;Eddy's
+euroacres;EuroAcres
+eurogoodies;EuroGoodies
+fcp;FCP
+fle;FLE
+gal_oil_gst;Gallon Oil Gas station
+gal_oil_ref;Gallon Oil Refinery
+gal_oil_str;Gallon Oil
+gnt;GNT
+hms_con_svc;HMS Machinery
+ika_bohag;Ika Bohag
+itcc;ITCC
+kaarfor;Kaarfor
+konstnr;Konstnorr
+konstnr_br;Konstnorr (br)
+konstnr_hs;Konstnorr (hs)
+konstnr_wind;Konstnorr (wind)
+lisette_log;Lisette Logistics
+lkwlog;LkwLog GmbH
+marina;Marina
+ms_stein;MS Stein
+nbfc;NBFC
+nord_crown;Nordic Crown
+nord_sten;Nordic Stenbrott
+norr_food;Norrfood
+norrsken;Norrsken
+ns_chem;NS Chemicals
+ns_oil;NS Oil
+oak_port;Oakland Shippers
+pns_con_grg;Plaster & Sons garage
+pns_con_sit;Plaster & Sons (sit)
+pns_con_sit2;Plaster & Sons (sit2)
+pns_con_whs;Plaster & Sons
+polar_fish;Polar Fish
+polarislines;Polaris Lines
+posped;Posped
+quarry;Steinbruch Quarry
+re_train;Rail Export
+renar;Renar Logistik
+sag_tre;Sag & Tre
+sanbuilders;Sanbuilders
+sc_frm;Sunshine Crops
+sc_frm_grg;Sunshine Crops garage
+scania_dlr;Scania Dealer
+scania_fac;Scania Truck Factory
+sellplan;Sellplan
+sf_port;Port of San Francisco
+sg_whs;SellGoods
+skoda;Skoda
+stokes;Stokes
+tid_mkt;Tidbit
+tradeaux;Tradeaux
+trameri;Trameri
+transinet;Transinet
+tree_et;Tree-ET
+vitas_pwr;Vitas Power
+vm_car_dlr;Voltison Motors dealer
+vm_car_pln;Voltison Motors plant
+vm_car_whs;Voltison Motors
+voitureux;Voitureux
+volvo_dlr;Volvo dealer
+volvo_fac;Volvo Truck Factory
+vpc;VPC
+wal_food_mkt;Wallbert Food Market
+wal_food_whs;Wallbert Food
+wal_mkt;Wallbert Market
+wal_whs;Wallbert
+wgcc;WGCC
+
+cargo.air_mails;Авиапочта
+cargo.aircft_tires;Шины для самолётов
+cargo.backfl_prev;Обратные клапаны
+cargo.basil;Базилик
+cargo.boric_acid;Борная кислота
+cargo.bottle_water;Бутилированная вода
+cargo.carb_water;Газированная вода
+cargo.cars_fr;Автомобили
+cargo.chewing_gums;Жевательные резинки
+cargo.chocolate;Шоколад
+cargo.coconut_milk;Кокосовое молоко
+cargo.coconut_oil;Кокосовое масло
+cargo.comp_process;Компьютерные процессоры
+cargo.concen_juice;Концентрированные соки
+cargo.corks;Пробки
+cargo.cut_flowers;Срезанные цветы
+cargo.diesel_gen;Дизельные генераторы
+cargo.emp_wine_bar;Винные бочки
+cargo.emp_wine_bot;Винные бутылки
+cargo.excav_soil;Вынутый грунт
+cargo.fuel_oil;Мазут
+cargo.granite_cube;Гранитные блоки
+cargo.gummy_bears;Мармелад
+cargo.harvest_bins;Контейнеры для урожая
+cargo.hi_volt_cabl;Кабели высокого напряжения
+cargo.iced_coffee;Холодный кофе в банках
+cargo.lavender;Лаванда
+cargo.limonades;Лимонад
+cargo.live_catt_fr;Живой скот
+cargo.med_equip;Медицинское оборудование
+cargo.med_vaccine;Медицинские вакцины
+cargo.natur_rubber;Природный каучук
+cargo.nonalco_beer;Безалкогольное пиво
+cargo.nylon_cord;Нейлоновый шнур
+cargo.olives;Оливки
+cargo.packag_food;Упакованные продукты
+cargo.post_packag;Почта
+cargo.press_sl_val;Клапаны высокого давления
+cargo.protec_cloth;Защитная одежда
+cargo.pumps;Насосы
+cargo.soy_milk;Соевое молоко
+cargo.spher_valves;Шаровые краны
+cargo.steel_cord;Металлокорд
+cargo.stones;Камни
+
+cargo.acetylene;Ацетилен
+cargo.acid;Кислота
+cargo.aircond;Кондиционеры
+cargo.almond;Миндаль
+cargo.ammunition;Военное снаряжение
+cargo.apples;Яблоки
+cargo.apples_c;Яблоки (контейнер)
+cargo.aromatics;Углеводороды
+cargo.arsenic;Мышьяк
+cargo.atl_cod_flt;Филе атлантической трески
+cargo.barley;Ячмень
+cargo.beans;Бобы
+cargo.beef_meat;Говядина
+cargo.beverages;Напитки
+cargo.beverages_c;Напитки (контейнер)
+cargo.big_bag_seed;Зерно в биг-бэгах
+cargo.bottles;Бутылки
+cargo.brake_fluid;Тормозная жидкость
+cargo.bricks;Кирпичи
+cargo.bulldozer;Бульдозер
+cargo.cable;Кабель
+cargo.canned_beans;Консервированные бобы
+cargo.canned_beef;Тушеная говядина
+cargo.canned_pork;Тушеная свинина
+cargo.canned_tuna;Консервированный тунец
+cargo.carcomp;Автозапчасти
+cargo.carrots;Морковь
+cargo.carrots_c;Морковь (контейнер)
+cargo.cars_big;Автомобили
+cargo.cars_mix;Автомобили
+cargo.cars_small;Автомобили
+cargo.cauliflower;Цветная капуста
+cargo.caviar;Икра
+cargo.cement;Цемент
+cargo.cheese;Сыр
+cargo.chem_sorb_c;Химические сорбенты (контейнер)
+cargo.chem_sorbent;Химические сорбенты
+cargo.chemicals;Химикаты
+cargo.chicken_meat;Куриное мясо
+cargo.chimney_syst;Дымоходные системы
+cargo.chlorine;Хлор
+cargo.clothes;Одежда
+cargo.clothes_c;Одежда (контейнер)
+cargo.coal;Уголь
+cargo.colors;Колер
+cargo.computers;Компьютеры
+cargo.concrete;Бетон
+cargo.const_house;Модульные конструкции
+cargo.cont_trees;Деревья в контейнерах
+cargo.contamin;Инфицированное сырьё
+cargo.copp_rf_gutt;Медные водосточные системы
+cargo.cott_cheese;Творог
+cargo.ctubes;Бетонные трубы
+cargo.curtains;Шторы
+cargo.cyanide;Цианиды
+cargo.desinfection;Очистной комплекс
+cargo.diesel;Дизельное топливо
+cargo.digger500;Трактор Digger 500
+cargo.digger1000;Трактор Digger 1000
+cargo.diggers;Тракторы
+cargo.driller;Бурильщик
+cargo.dryers;Фены
+cargo.drymilk;Сухое молоко
+cargo.dynamite;Динамит
+cargo.elect_wiring;Электропроводка
+cargo.electro_comp;Электронные компоненты
+cargo.electronics;Электроника
+cargo.empty_barr;Пустые бочки
+cargo.empty_palet;Пустые палеты
+cargo.emptytank;Цистерна
+cargo.ethane;Этан
+cargo.excavator;Экскаватор
+cargo.explosives;Взрывчатые материалы
+cargo.fertilizer;Удобрения
+cargo.fireworks;Фейерверки
+cargo.fish_chips;Рыбные палочки
+cargo.floorpanels;Бетонные плиты
+cargo.flour;Мука
+cargo.fluorine;Фтор
+cargo.food;Упакованные продукты
+cargo.forklifts;Автопогрузчики
+cargo.fresh_fish;Свежая рыба
+cargo.frozen_food;Замороженные продукты
+cargo.frozen_fruit;Замороженные фрукты
+cargo.frozen_hake;Замороженный хек
+cargo.frozen_veget;Замороженные овощи
+cargo.fruits;Фрукты
+cargo.fuel_tanks;Топливные баки
+cargo.fueltanker;Топливная цистерна
+cargo.furniture;Мебель
+cargo.garlic;Чеснок
+cargo.glass;Листовое стекло
+cargo.glass_packed;Упакованное стекло
+cargo.goat_cheese;Козий сыр
+cargo.grapes;Виноград
+cargo.graph_grease;Графитовая смазка
+cargo.grass_rolls;Рулонный газон
+cargo.gravel;Гравий
+cargo.guard_rails;Дорожное ограждение
+cargo.gypsum;Гипс
+cargo.hay;Сено
+cargo.hchemicals;Горячие химикаты
+cargo.helicopter;Вертолёт
+cargo.hipresstank;Резервуары высокого давления
+cargo.hmetal;Тяжёлые металлы
+cargo.home_acc;Аксессуары для дома
+cargo.honey;Мёд
+cargo.househd_appl;Бытовая техника
+cargo.hwaste;Медицинские отходы
+cargo.hydrochlor;Соляная кислота
+cargo.hydrogen;Водород
+cargo.ibc_cont;Контейнеры Еврокуб
+cargo.icecream;Мороженое
+cargo.iron_pipes;Железные трубы
+cargo.kerosene;Керосин
+cargo.ketchup;Кетчуп
+cargo.lamb_stom;Фасованный бараний рубец
+cargo.largetubes;Большие трубы
+cargo.lead;Свинец
+cargo.limestone;Известняк
+cargo.live_cattle;Живой скот
+cargo.liver_paste;Консервированный паштет
+cargo.logs;Брёвна
+cargo.lpg;LPG
+cargo.lumber;Пиломатериалы
+cargo.machine_pts;Автозапчаcти
+cargo.magnesium;Магний
+cargo.maple_syrup;Кленовый сироп
+cargo.mason_jars;Стеклянные банки
+cargo.meat;Мясо
+cargo.mercuric;Хлорид ртути
+cargo.metal_cans;Жестяная тара
+cargo.milk;Молоко
+cargo.mondeos;Автомобили
+cargo.motor_oil;Моторное масло
+cargo.motor_oil_c;Моторное масло (контейнер)
+cargo.neon;Неон
+cargo.nitrocel;Нитроцеллюлоза
+cargo.nitrogen;Азот
+cargo.office_suppl;Офисное оборудование
+cargo.oil;Масло
+cargo.oil_filt_c;Топливные фильтры (контейнер)
+cargo.oil_filters;Топливные фильтры
+cargo.onion;Репчатый лук
+cargo.oranges;Апельсины
+cargo.ore;Руда
+cargo.outdr_flr_tl;Тротуарный камень
+cargo.overweight;Низкорамные полуприцепы
+cargo.paper;Офисная бумага
+cargo.pears;Груши
+cargo.peas;Горох
+cargo.pesticide;Пестициды
+cargo.pet_food;Корма для животных
+cargo.pet_food_c;Корма для животных (контейнер)
+cargo.petrol;Бензин
+cargo.phosphor;Белый фосфор
+cargo.pipes;Железные тpубы
+cargo.plant_substr;Органические субстраты
+cargo.plast_film;Упаковочная плёнка
+cargo.plast_film_c;Упаковочная плёнка (контейнер)
+cargo.plastic_gra;Пластиковые гранулы
+cargo.plows;Плуги
+cargo.plumb_suppl;Сантехнические товары
+cargo.plums;Сливы
+cargo.pnut_butter;Арахисовое масло
+cargo.polyst_box;Полистироловая продукция
+cargo.pork_meat;Свинина
+cargo.pot_flowers;Комнатные цветы
+cargo.potahydro;Гидроксид калия
+cargo.potassium;Калий
+cargo.potatoes;Картофель
+cargo.precast_strs;Железобетонные лестницы
+cargo.propane;Пропан
+cargo.radiators;Радиаторы
+cargo.refl_posts;Светоотражающие столбы
+cargo.rice;Рис
+cargo.rice_c;Рис (контейнер)
+cargo.roadroller;Дорожный каток
+cargo.roller;Каток DYNA CC-2200
+cargo.roof_tiles;Черепица
+cargo.roofing_felt;Толь
+cargo.rooflights;Зенитные фонари
+cargo.rye;Рожь
+cargo.salm_fillet;Филе лосося
+cargo.salt_spice_c;Соль и специи (контейнер)
+cargo.salt_spices;Соль и специи
+cargo.sand;Песок
+cargo.sandwch_pnls;Сэндвич-панели
+cargo.sausages;Колбасы
+cargo.sawpanels;ДСП
+cargo.scaffoldings;Строительные леса
+cargo.scania_tr;Грузовики Scania
+cargo.scrap_metals;Металлолом
+cargo.sheep_wool;Овечья шерсть
+cargo.shock_absorb;Амортизаторы
+cargo.silica;Двуокись кремния
+cargo.smokd_eel;Копчёный угорь
+cargo.smokd_sprats;Шпроты
+cargo.sodchlor;Гипохлорит натрия
+cargo.sodhydro;Гидроксид натрия
+cargo.sodium;Натрий
+cargo.solvents;Растворители
+cargo.stone_dust;Минеральный порошок
+cargo.stone_wool;Каменная вата
+cargo.straw_bales;Тюки соломы
+cargo.sugar;Сахар
+cargo.sulfuric;Серная кислота
+cargo.tableware;Посуда
+cargo.tomatoes;Томаты
+cargo.toys;Игрушки
+cargo.tracks;Гусеницы
+cargo.tractor;Трактор RS-666
+cargo.tractors;Тракторы
+cargo.transmis;Коробки передач
+cargo.truck_batt;Грузовые аккумуляторы
+cargo.truck_batt_c;Грузовые аккумуляторы (контейнер)
+cargo.truck_rims;Грузовые диски
+cargo.truck_rims_c;Грузовые диски (контейнер)
+cargo.truck_tyres;Грузовые шины
+cargo.tube;Детали трубопровода
+cargo.tvs;Телевизоры
+cargo.tyres;Шины
+cargo.used_battery;Отработанные аккумуляторы
+cargo.used_pack;Картонная тара
+cargo.used_packag;Картонная тара
+cargo.used_plast;Пластиковая тара
+cargo.used_plast_c;Пластиковая тара (контейнер)
+cargo.vegetable;Овощи
+cargo.vent_tube;Вентиляционная труба
+cargo.ventilation;Вентиляционная труба
+cargo.vinegar;Уксус
+cargo.vinegar_c;Уксус (контейнер)
+cargo.volvo_cars;Престижные внедорожники
+cargo.volvo_tr;Грузовики Volvo
+cargo.wallpanels;Стеновые панели
+cargo.watermelons;Арбузы
+cargo.wheat;Пшеница
+cargo.windml_eng;Гондола ветрогенератора
+cargo.windml_tube;Башня ветрогенератора
+cargo.wood_bark;Древесная кора
+cargo.wooden_beams;Деревянные балки
+cargo.wshavings;Деревянная стружка
+cargo.yacht;Яхта
+cargo.yogurt;Йогурт
+cargo.young_seed;Саженцы
+
+cargo.b_ammunition;Военное снаряжение (BDF)
+cargo.b_apples;Яблоки (BDF)
+cargo.b_beef_meat;Говядина (BDF)
+cargo.b_beverages;Напитки (BDF)
+cargo.b_canned_bee;Тушеная говядина (BDF)
+cargo.b_canned_por;Тушеная свинина (BDF)
+cargo.b_canned_tun;Консервированный тунец (BDF)
+cargo.b_carrots;Морковь (BDF)
+cargo.b_caviar;Икра (BDF)
+cargo.b_cheese;Сыр (BDF)
+cargo.b_chicken_me;Куриное мясо (BDF)
+cargo.b_clothes;Одежда (BDF)
+cargo.b_cott_chees;Творог (BDF)
+cargo.b_desinfecti;Очистной комплекс (BDF)
+cargo.b_drymilk;Сухое молоко (BDF)
+cargo.b_dynamite;Динамит (BDF)
+cargo.b_elect_wiri;Электропроводка (BDF)
+cargo.b_empty_pale;Пустые палеты (BDF)
+cargo.b_explosives;Взрывчатые материалы (BDF)
+cargo.b_fertilizer;Удобрения (BDF)
+cargo.b_fish_chips;Рыбные палочки (BDF)
+cargo.b_flour;Мука (BDF)
+cargo.b_fresh_fish;Свежая рыба (BDF)
+cargo.b_frozen_hak;Замороженный хек (BDF)
+cargo.b_furniture;Мебель (BDF)
+cargo.b_garlic;Чеснок (BDF)
+cargo.b_glass;Листовое стекло (BDF)
+cargo.b_icecream;Мороженое (BDF)
+cargo.b_lamb_stom;Фасованный бараний рубец (BDF)
+cargo.b_liver_past;Консервированный паштет (BDF)
+cargo.b_lumber;Пиломатериалы (BDF)
+cargo.b_motor_oil;Моторное масло (BDF)
+cargo.b_oil_filter;Топливные фильтры (BDF)
+cargo.b_onion;Репчатый лук (BDF)
+cargo.b_oranges;Апельсины (BDF)
+cargo.b_paper;Офисная бумага (BDF)
+cargo.b_pears;Груши (BDF)
+cargo.b_peas;Горох (BDF)
+cargo.b_pet_food;Корма для животных (BDF)
+cargo.b_plumb_supp;Сантехнические товары (BDF)
+cargo.b_pork_meat;Свинина (BDF)
+cargo.b_potatoes;Картофель (BDF)
+cargo.b_rice;Рис (BDF)
+cargo.b_salm_fille;Филе лосося (BDF)
+cargo.b_salt_spice;Соль и специи (BDF)
+cargo.b_sausages;Колбасы (BDF)
+cargo.b_scaffoldin;Строительные леса (BDF)
+cargo.b_smokd_spra;Шпроты (BDF)
+cargo.b_sugar;Сахар (BDF)
+cargo.b_tableware;Посуда (BDF)
+cargo.b_tomatoes;Томаты (BDF)
+cargo.b_transmis;Коробки передач (BDF)
+cargo.b_truck_batt;Грузовые аккумуляторы (BDF)
+cargo.b_truck_rims;Грузовые диски (BDF)
+cargo.b_truck_tyre;Грузовые шины (BDF)
+cargo.b_tyres;Шины (BDF)
+cargo.b_used_packa;Картонная тара (BDF)
+cargo.b_vinegar;Уксус (BDF)
+cargo.b_yogurt;Йогурт (BDF)
+cargo.t_arborite;Арборит (BDF)
+cargo.t_baskets;Корзины (BDF)
+cargo.t_bath_fai;Фаянсовые ванны (BDF)
+cargo.t_bayleaf;Лавровый лист (BDF)
+cargo.t_bicycles;Велосипеды (BDF)
+cargo.t_boxes;Ящики (BDF)
+cargo.t_brakefluid;Тормозная жидкость (BDF)
+cargo.t_chem_sorb;Химические сорбенты (BDF)
+cargo.t_clothes;Одежда (BDF)
+cargo.t_cork_prod;Пробковые изделия (BDF)
+cargo.t_cotton;Хлопок (BDF)
+cargo.t_cottonwool;Вата (BDF)
+cargo.t_dresses;Платья (BDF)
+cargo.t_driedmushr;Грибы сушёные (BDF)
+cargo.t_drymilk;Сухое молоко (BDF)
+cargo.t_el_cable;Электропроводка (BDF)
+cargo.t_electronic;Электроника (BDF)
+cargo.t_empty_barr;Пустые бочки (BDF)
+cargo.t_feather;Перо птиц (BDF)
+cargo.t_fil_lamp;Лампы накаливания (BDF)
+cargo.t_flaxunpres;Лён непрессованный (BDF)
+cargo.t_floss;Пух (BDF)
+cargo.t_foam_plast;Пенопласт (BDF)
+cargo.t_frozencorn;Свежезамороженная кукуруза (BDF)
+cargo.t_furniture;Мебель (BDF)
+cargo.t_furs;Меховые изделия (BDF)
+cargo.t_hats;Шляпы (BDF)
+cargo.t_hay;Сено (BDF)
+cargo.t_lampshades;Абажуры (BDF)
+cargo.t_mane_hair;Конский волос (BDF)
+cargo.t_metal_cans;Жестяная тара (BDF)
+cargo.t_mus_instr;Музыкальные инструменты (BDF)
+cargo.t_overshoes;Галоши (BDF)
+cargo.t_plumbsuppl;Сантехническое оборудование (BDF)
+cargo.t_polyst_box;Полистироловая продукция (BDF)
+cargo.t_potatovine;Картофельная ботва (BDF)
+cargo.t_potflowers;Комнатные цветы (BDF)
+cargo.t_pu_foam;Поролон (BDF)
+cargo.t_radiators;Радиаторы (BDF)
+cargo.t_shoes;Обувь (BDF)
+cargo.t_stationery;Канцелярские принадлежности (BDF)
+cargo.t_stone_wool;Каменная вата (BDF)
+cargo.t_suitcases;Чемоданы (BDF)
+cargo.t_tin_cans;Консервные банки (BDF)
+cargo.t_tinwork;Жестяные изделия (BDF)
+cargo.t_tispapcore;Папиросные гильзы (BDF)
+cargo.t_toys;Игрушки (BDF)
+cargo.t_used_plast;Пластиковая тара (BDF)
+cargo.t_woodwork;Деревянные изделия (BDF)
+cargo.t_wshavings;Деревянная стружка (BDF)
+cargo.t_wstclothes;Ветошь (BDF)
+cargo.fabia_jtz;Skoda Fabia
+cargo.mini_jtz;Mini Cooper
+
+priv_home;Частный дом
+priv_farm;Частная ферма
+larche;Larche
+hotel;Hotel
+service;Service
+la_turbie;La Turbie
+la_mede;La Mede
+man_dlr;MAN Truck Dealer
+laprimaube;La Primaube
+happy_fisher;Happy Fisher
+lebourg;Le Bourg
+st_cere;St.Cere
+laguenne;Laguenne
+bourganeuf;Bourganeuf
+lepont;Le Pont
+strongjob;Strongjob
+iveco_dlr;IVECO Truck Dealer
+poissy;Poissy
+renault_dlr;Renault Truck Dealer
+petrol;Petrol
+issoudun;Issoudun
+nos_pat_tech;Nos Paturages
+chap_ursin;La Chapelle-Saint-Ursin
+selles_cher;Selles-sur-Cher
+les_delas;Les Delas
+bona_terra;Bona Terra
+gonesse;Gonesse
+vallet;Vallet
+pont_lab;Pont-de-Labeaume
+pantaleon;Saint-Pantaleon-les-Vignes
+nyons;Nyons
+rosans;Rosans
+rousset;Rousset
+urbise;Urbise
+briant;Briant
+sillex;Sillex
+gibles;Gibles
+auxerre;Auxerre
+courtenay;Courtenay
+autoworld;Autoworld
+tuttlingen;Tuttlingen
+voyalane;Voyalane
+la_villeneuve;La Villeneuve
+
+cargo.asph_miller;Фрезерная машина - Writigen 808
+cargo.cable_reel;Кабельная катушка
+cargo.concr_beams;Бетонные плиты
+cargo.dozer;Бульдозер - Z35K
+cargo.locomotive;Локомотив - Bossloc
+cargo.metal_center;Metal Centering
+cargo.mobile_crane;Автокран - Rex-Tex 45
+cargo.transformat;Трансформатор - PK900
+aci;ACI SRL
+cargotras;Cargotras
+cesare_smar;Cesare Supermercato
+libellula;Libellula
+spinelli;Spinelli
+cargo.nuts;Орехи
+cargo.princess;Яхта - Queen V39
+ancona;Ancona
+bari;Bari
+bologna;Bologna
+cassino;Cassino
+catania;Catania
+catanzaro;Catanzaro
+firenze;Firenze
+genova;Genova
+livorno;Livorno
+messina;Messina
+napoli;Napoli
+palermo;Palermo
+parma;Parma
+pescara;Pescara
+roma;Roma
+sangiovanni;Villa San Giovanni
+suzzara;Suzzara
+taranto;Taranto
+terni;Terni
+aaa;AA - Auto di Alonso
+acc;ACC
+cnp;CNP
+comoto;Comoto
+cont_port_it;Terminal Container
+costruzi_bas;Costruzione di Edifici
+costruzi_fla;Costruzione di Edifici
+costruzi_hal;Costruzione di Edifici
+costruzi_win;Costruzione di Edifici
+c_navale;Cantiere Navale
+eolo_lines;Eolo Lines
+exomar;Exomar
+fattoria_f;Fattoria Felice
+fui;FUI SpA
+ini;Ini
+marina_it;Marina
+marmo;Marmo SpA
+piac;PIAC
+pp_chimica;PP Chimica Italia
+quadrelli;Quadrelli SpA
+sal;S.A.L. S.R.L.
+te_logistica;TE Logistica
+tras_med;Trasporti Mediterraneo
+cargo.brake_pads;Тормозные колодки
+cargo.can_sardines;Консервированные сардины
+cargo.carbn_pwdr_c;Углеродный порошок
+cargo.car_it;Автомобили
+cargo.exhausts_c;Выхлопные системы
+cargo.froz_octopi;Замороженный осьминог
+cargo.frsh_herbs;Свежие травы
+cargo.gnocchi;Ньокки
+cargo.iveco_vans;Фургоны Braco
+cargo.marb_blck;Мраморные блоки
+cargo.marb_slab;Мраморные плиты
+cargo.metal_pipes;Железные трубы
+cargo.motorcycles;Мотоциклы
+cargo.moto_tires;Мотоциклетные шины
+cargo.mozzarela;Моцарелла
+cargo.mtl_coil;Листовой металл в бухтах
+cargo.olive_oil;Оливковое масло
+cargo.pasta;Паста
+cargo.perfor_frks;Мотоциклетные вилки
+cargo.pesto;Песто
+cargo.prosciutto;Прошутто
+cargo.scooters;Скутеры
+cargo.seal_bearing;Герметичные подшипники
+cargo.sq_tub;Квадратные трубы
+cargo.wrk_cloth;Рабочая одежда
+cargo.boiler_parts;Деталь котла
+cargo.cat_785c;Шасси карьерного самосвала
+cargo.condensator;Промышленный теплообменник
+cargo.ex_bucket;Ковш экскаватора
+cargo.heat_exch;Теплообменник
+cargo.lattice;Лестничная конструкция
+cargo.m_59_80_r63;Огромные шины
+cargo.mystery_box;Массивная промышленная деталь
+cargo.mystery_cyl;Высокотехнологичное устройство
+cargo.pilot_boat;Лоцманское судно
+cargo.silo;Силос
+tesore_gust;Tesoro Gustoso

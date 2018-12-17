@@ -1,0 +1,435 @@
+[8];[Backspace]
+[9];[Tab]
+[13];[Return]
+[16];[Shift]
+[17];[Ctrl]
+[18];[Alt]
+[19];[Pause]
+[20];[CapsLock]
+[27];[Esc]
+[32];[Space]
+[33];[PageUp]
+[34];[PageDown]
+[35];[End]
+[36];[Home]
+[37];[Left]
+[38];[Up]
+[39];[Right]
+[40];[Down]
+[44];[PrtScn]
+[45];[Insert]
+[46];[Delete]
+ 
+[48];[0]
+[49];[1]
+[50];[2]
+[51];[3]
+[52];[4]
+[53];[5]
+[54];[6]
+[55];[7]
+[56];[8]
+[57];[9]
+ 
+[65];[A]
+[66];[B]
+[67];[C]
+[68];[D]
+[69];[E]
+[70];[F]
+[71];[G]
+[72];[H]
+[73];[I]
+[74];[J]
+[75];[K]
+[76];[L]
+[77];[M]
+[78];[N]
+[79];[O]
+[80];[P]
+[81];[Q]
+[82];[R]
+[83];[S]
+[84];[T]
+[85];[U]
+[86];[V]
+[87];[W]
+[88];[X]
+[89];[Y]
+[90];[Z]
+
+[91];[LWin]
+[92];[RWin]
+[93];[Apps]
+[96];[Num0]
+[97];[Num1]
+[98];[Num2]
+[99];[Num3]
+[100];[Num4]
+[101];[Num5]
+[102];[Num6]
+[103];[Num7]
+[104];[Num8]
+[105];[Num9]
+[106];[Multiply]
+[107];[Add]
+[109];[Subtract]
+[110];[Decimal]
+[111];[Divide]
+
+[112];[F1]
+[113];[F2]
+[114];[F3]
+[115];[F4]
+[116];[F5]
+[117];[F6]
+[118];[F7]
+[119];[F8]
+[120];[F9]
+[121];[F10]
+[122];[F11]
+[123];[F12]
+[124];[F13]
+[125];[F14]
+[126];[F15]
+[127];[F16]
+ 
+[144];[NumLock]
+[145];[ScrollLock]
+[160];[LShift]
+[161];[RShift]
+[162];[LCtrl]
+[163];[RCtrl]
+[164];[LAlt]
+[165];[RAlt]
+[186];[Semicolon]
+[187];[Equals]
+[188];[Comma]
+[189];[Underscore]
+[190];[Period]
+[191];[Slash]
+[220];[Backslash]
+[221];[RightBrace]
+[219];[LeftBrace]
+[222];[Apostrophe]
+
+@@kg@@;кг
+@@Week@@;Неделя
+@@Mon@@;Пн
+@@Tue@@;Вт
+@@Wed@@;Ср
+@@Thu@@;Чт
+@@Fri@@;Пт
+@@Sat@@;Сб
+@@Sun@@;Вс
+
+LOADING;ЗАГРУЗКА
+UNLOADING;ВЫГРУЗКА
+in;в
+km;км
+m;м
+
+Too far from a base!;Слишком далеко от базы!
+
+on weekdays;по рабочим дням
+everyday;ежедневно
+weekends;по выходным дням
+24-hour;круглосуточно
+between 0 and 6;с 0 до 6
+between 6 and 10;с 6 до 10
+between 8 and 12;с 8 до 12
+between 8 and 20;с 8 до 20
+between 8 and 20, break from 12 to 13;с 8 до 20, перерыв с 12 до 13
+between 9 and 12;с 9 до 12
+between 9 and 18;с 9 до 18
+between 9 and 18, break from 13 to 14;с 9 до 18, обед с 13 до 14
+between 10 and 16;с 10 до 16
+between 12 and 15;с 12 до 15
+between 16 and 20;с 16 до 20
+between 18 and 24;с 18 до 24
+between 20 and 8;с 20 до 8
+unloading time specify on arrival;время разгрузки уточните по прибытию
+
+unloading hours;часы выгрузки
+You can not load now;Вы не можете сейчас загрузиться
+You can not unload now;Вы не можете сейчас выгрузиться
+Acceptance of this cargo is carried;Приём данного груза осуществляется
+Company office;Офис компании
+The cargo is not here. You need to get to the place of loading;Груз находится не здесь. Вам необходимо проехать к месту погрузки
+The coordinates of the loading place will be entered into your navigator;Координаты места погрузки будут внесены в ваш навигатор
+We need to deliver the cargo;Нам необходимо доставить груз
+to the company;в компанию
+for a job;за рейс
+The exact location of loading you can get in our office upon arrival at the base;Точное место погрузки вы сможете уточнить в нашем офисе по приезду на базу
+Consignee of the cargo asked to deliver the cargo at;Получатель груза просил доставить груз в
+The offer is valid until;Предложение действительно до
+The offer is available from;Предложение доступно с
+till;до
+Mileage:;Километраж:
+If you are interested in this offer, we are glad to see you in our office, in;Если Вас заинтересовало это предложение, мы будем рады видеть Вас в нашем офисе, в
+There is company job;Есть задание
+Loading at;Загрузка в
+There is no jobs yet;Загрузок пока нет
+Call later;Позвоните позже
+Call in an hour;Позвоните через час
+Head for;Направляйтесь в
+The coordinates of loading place I will send you later;Координаты места погрузки я пришлю Вам позже
+Loading coordinates;Координаты загрузки
+The trailer is not selected!;Не выбран прицеп!
+Selected trailer is not the same as assigned trailer!;Выбранный прицеп не такой же, как назначенный прицеп!
+Destination or Cargo name is not specified!;Не задан Пункт назначения (Destination) или Наименование груза (Cargo name)!
+Cargo weight is not specified!;Не задана масса груза (Cargo weight)!
+The trailer is already loaded!;Прицеп уже загружен!
+Current job is not selected!;Не выбрано текущее задание!
+You need to unload the last cargo loaded!;Вы должны выгрузить последний загруженный груз!
+Jobs are not found;Заданий не найдено
+The trailer is badly damaged. We can not repair it. Sorry.;Прицеп сильно повреждён. Мы не сможем отремонтировать его. Извините.
+The trailer is already under repair!;Прицеп уже находится в ремонте!
+The trailer is not empty!;Прицеп не пустой!
+Repair of the trailer takes some time (till;Ремонт прицепа займёт некоторое время (до
+It will cost you;Это будет вам стоить
+During repair you can not use this trailer!;Во время ремонта Вы не сможете использовать этот прицеп!
+Current trailer will be disconnected from the truck if necessary. You will be without a trailer!;Текущий прицеп будет отсоединён от тягача при необходимости. Вы окажетесь без прицепа!
+Are you kidding? The trailer is almost new!;Вы шутите? Прицеп почти новый!
+There is no available cargoes for your trailer!;Для Вашего прицепа нет доступных грузов!
+The trailer;Прицеп
+layed up for repairs;поставлен на ремонт
+is repaired;отремонтирован
+An amount of;Сумма
+deducted from your account;списана с Вашего счёта
+Your debt in the amount of %d will be repaid...;Ваш долг в размере %d будет погашен...
+Your money account credited with an amount of %d.;На Ваш денежный счёт зачислена сумма %d.
+Unscheduled loading requires some money (%d);Незапланированная загрузка требует денюжку (%d)
+The offer has expired.;Предложение истекло.
+There is expected call from dispatcher.;Ожидается звонок от диспетчера.
+Your debt is;Ваш долг составляет
+Do you want to save this call?;Вы хотите сохранить этот звонок?
+The call from the dispatcher restored. Wait ...;Звонок от диспетчера восстановлен. Ожидайте...
+Penalty for %d-th in a row call the dispatcher is %d! Your debt now is %d.;Пеня за %d-й подряд вызов диспетчера составляет %d! Сейчас Ваш долг составляет %d.
+Job log (latest 5 messages);Job log (последние 5 сообщений)
+Selected trailer is too far from the place of unloading (%d)!;Выбранный прицеп находится слишком далеко от места выгрузки (%d)!
+Selected trailer is too far from the place of loading (%d)!;Выбранный прицеп находится слишком далеко от места погрузки (%d)!
+Distance to unloading place: %d m;Расстояние до места выгрузки: %d м
+Marker 1 is not set!;Маркер 1 не установлен!
+Cargo alias not found;Псевдоним груза не найден
+City alias not found;Псевдоним города не найден
+Base alias not found;Псевдоним базы не найден
+
+The web page of the program is located on the official SCS forum:;Веб-страница программы расположена на официальном форуме SCS:
+Link:;Ссылка:
+If you have downloaded this program not from its web page, there is no virus-free guarantee!;Если вы скачали эту программу не с её веб-страницы, то нет никаких гарантий того, что программа не заражена вирусами!
+
+Move the mouse pointer to each element of the program to read help.;Переместите указатель мыши к каждому элементу программы для получения помощи.
+Your money account.;Ваш денежный счёт.
+There are additional money concepts in the program - Debt and Earning.;В программе имеются дополнительные денежные концепции - Долг (debt) и Поступления (earning).
+Debt - this is your money debt to someone for something.;Долг - это ваш денежный долг кому-то за что-то.
+Debt increases at unscheduled loading or when you call the dispatcher.;Долг растёт при погрузке вне расписания или когда вы звоните диспетчеру.
+If your debt is more than 5000 then your debt is repaid while saving savegame.;Если долг больше 5000, то он погашается при сохранении сейва.
+Earning - this is cash proceeds to your account.;Поступления - это денежные поступления на ваш счёт.
+Earning increases when you sell a trailer or unloading a cargo.;Поступления увеличиваются при продаже прицепа или при выгрузке груза.
+When there comes payment time, all your earnings credited to your money account.;Когда наступает время выплаты, все ваши поступления переводятся на ваш денежный счёт.
+You can set your own payment interval in game minutes.;Вы можете установить свой собственный интервал выплаты в игровых минутах.
+In config.cfg there are two variables: payment_interval and payment_interval_max.;В файле config.cfg есть две переменные: payment_interval и payment_interval_max.
+For example:;Например:
+payment_interval=10800 - mean that payment interval will be 7 days (7*24*60=10800 minutes).;payment_interval=10800 - означает что интервал выплаты будет 7 дней (7*24*60=10800 минут).
+Your current, assigned trailer.;Ваш текущий, назначенный прицеп.
+Can be selected by double-clicking on "Owned trailers" list or enter manually.;Может быть выбран двойным кликом на списке "Owned trailers" или введён вручную.
+Checkbox "Connected" indicates whether the current trailer attached to the truck or not.;Галка "Connected" показывает, прицеплен ли текущий прицеп к траку или нет.
+Dialog to store GPS navigation point.;Диалог для сохранения позиции GPS.
+You need to set Marker 1 on navigation route at the game!;Вы должны в игре установить маркер 1 на навигационном маршруте!
+Completely reload the savegame and program settings.;Полностью перезагружает сейв и настройки программы.
+It is the same as you close the program and then open again.;Это то же самое, что закрыть программу и снова открыть.
+Saves you savegame, current job list, job log list and program settings.;Сохраняет сейв, список "Current job", список "Job log" и настройки программы.
+List of your owned trailers.;Список ваших собственных прицепов.
+Double-click to set the trailer as your current, active trailer (see field "Assigned trailer").;Двойной клик - сделать прицеп текущим, активным (см. поле "Assigned trailer").
+Note: if the trailer is under repair you can not set it as active!;Заметьте: если прицеп находится в ремонте, вы не сможете сделать его активным!
+The coordinates of each trailer are stored in trailers_pos.txt file.;Координаты каждого прицепа сохраняются в файле trailers_pos.txt.
+Each time when you run the program or press Reload button the coordinates of active trailer are stored in this file.;Каждый раз при запуске программы или нажатии на кнопку Reload координаты активного прицепа сохраняются в этом файле.
+When you change your current trailer and its coordinates are found, then trailer will be there where you left it and it will be detached from your truck.;Когда вы меняете текущий прицеп и его координаты найдены, тогда прицеп будет там, где вы его оставили, и он будет отцеплен от вашего трака.
+If coordinates are not found, then coordinates are set to default and trailer will be attached to your truck.;Если же координаты не найдены, то координаты устанавливаются по дефолту, а прицеп будет прицеплен к вашему траку.
+List of selected trailer's accessories.;Список аксессуаров выбранного прицепа.
+Usually the order of accessories is as follows: chassis, paint (if present), wheels, cargo (if present).;Обычно аксессуары расположены таким образом: шасси, раскраска (если есть), колёса, груз (если есть).
+Clicking on accessory, below you can change it - select from drop-down list or enter manually.;Выбрав аксессуар, снизу вы можете изменить его - выбрать из выпадающего списка или ввести вручную.
+Also you can double clicking on accessory to change it parameters.;Также вы можете дважды щёлкнуть на аксессуаре, чтобы изменить его параметры.
+Here you can change trailer's accessory - select from drop-down list or enter manually.;Здесь вы можете изменить аксессуар прицепа - выбрать из выпадающего списка или ввести вручную.
+Adds or removes last accessory (usually this is a cargo).;Добавляет или удаляет последний аксессуар (обычно это груз).
+Adds any accessory. The trailer can have many different accessories - flags, beacons, plated, etc.;Добавляет любой аксессуар. Прицеп может иметь много разных аксессуаров - флажков, проблесковых маяков, табличек и т.д.
+Removes selected accessory except first - first accessory reserved for chassis and can not be removed.;Удаляет выбранный аксессуар кроме первого - первый аксессуар зарезервирован под шасси и не может быть удалён.
+After adding you can change it - select from drop-down list or enter manually.;После добавления вы можете изменить его - выбрать из выпадающего списка или ввести вручную.
+Adds or removes paint accessory. Usually this is second accessory after chassis.;Добавляет или удаляет аксессуар покраски. Обычно это второй после шасси аксессуар.
+Repair status of selected trailer. Shows if trailer is under repair.;Статус ремонта выбранного прицепа. Показывает, находится ли прицеп в ремонте.
+Wear of the trailer from 0.0 (0%) to 1.0 (100%).;Повреждения прицепа от 0.0 (0%) до 1.0 (100%).
+Double-click to repair selected trailer.;Двойной клик - для ремонта выбранного прицепа.
+Total mass of all cargoes in the trailer.;Общая масса всех грузов в прицепе.
+Buy a trailer.;Купить прицеп.
+Trailer are stored in trailers.txt file.;Прицепы хранятся в файле trailers.txt.
+Sell selected trailer.;Продать выбранный прицеп.
+Special cargoes list (see special_cargoes.txt file).;Список спецгрузов (см. файл special_cargoes.txt).
+These cargoes is available only for so called "opened" trailers - tralers with visual cargoes.;Эти грузы доступны только для так называемых "открытых" прицепов - прицепов с визуальными грузами.
+This list used by the program - you don't need to do anything with this list.;Этот список используется программой - вам не нужно ничего делать с этим списком.
+Shows special cargo definition suitable for entered cargo name.;Показывает деф спецгруза, подходящего под введенное имя груза.
+When you press Sign contract this cargo definition adds to trailer accessory.;Когда вы нажмёте Sign contract, этот деф спецгруза добавится к аксессуарам прицепа.
+Departure point.;Пункт отправления.
+Can be selected from drop-down list or enter manually (anything you want).;Может быть выбран из выпадающего списка или введён вручную (всё, что угодно).
+If your truck is nearby to a company, this company shows here.;Если ваш трак находится неподалёку от компании, эта компания показывается здесь.
+To make a route to a base, select it from drop-down list and press Shift+GPS (then press Notebook and Save game.sii buttons).;Чтобы проложить маршрут к базе, выберите её из выпадающего списка и нажмите Shift+GPS (затем Notebook и Save game.sii).
+Destination point.;Пункт назначения.
+Cargo name.;Наименование груза.
+If cargo name is found in special cargoes then special cargo definition will be used.;Если наименование груза найдено в специальных грузах, тогда будет использован деф найденного спецгруза.
+Cargo mass.;Масса груза.
+Mileage - estimated route length. Filling is not necessary.;Километраж - расчётная длина маршрута. Заполнять необязательно.
+If not filled, it is used odometer values at the time of loading and at the time of unloading.;Если не заполнено, используются показания одометра на момент погрузки и на момент разгрузки.
+Cost per kilometer. Filling is not necessary.;Стоимость за километр пути. Заполнять необязательно.
+Payment for delivery. Filling is not necessary.;Гонорар за доставку. Заполнять необязательно.
+Depends on mileage, cost per km and cargo mass.;Зависит от километража, стоимости за километр пути и от массы груза.
+If you are ready, you may Sign contract. Then cargo will be loaded into your trailer.;Если вы готовы, вы можете подписывать контракт (Sign contract). Тогда груз будет загружен в ваш прицеп.
+It may take a while - depending on the cargo mass.;Это займёт некоторое время - зависит от массы груза.
+Job information will be added to "Current job" list.;Информация о задании будет добавлена в список "Current job".
+This is your jobs list. It contains job info and some technical info.;Это ваш список заданий. Он содержит информацию о задании и некоторую техническую информацию.
+One line - one job (source, destination, cargo name, cargo mass, etc).;Одна строка - одно задание (откуда, куда, груз, масса, и т.д).
+Select a job in "Current job" list and press this button to unload cargo.;Выберите задание в списке "Current job" и нажмите эту кнопку для выгрузки груза.
+If your trailer supports only rear-loading, like Coolliner, then you can unload only last cargo.;Если ваш прицеп поддерживает только заднюю загрузку, как Coolliner, то вы можете выгрузить только последний груз.
+If your trailer also supports side-loading, like Profiliner, then you can unload any cargo.;Если же ваш прицеп поддерживает также и боковую загрузку, как Profiliner, то вы можете выгрузить любой груз.
+Clears all existing GPS routes and creates new GPS routes to all unloading points from "Current job" list.;Очищает все существующие GPS маршруты и создаёт новые ко всем пунктам выгрузки из списка "Current job".
+If a base doesn't have gps-coordinates then this basе will be skipped.;Если база не имеет gps-координат, то эта база пропускается.
+GPS points are sorted by the distance to the unloading places.;Пункты GPS отсортированы по расстоянию до мест выгрузки.
+In the case of trailers with rear-loading, GPS points are set in reverse order.;В случае прицепов с задней загрузкой, пункты GPS устанавливаются в обратном порядке.
+If you press Ctrl+GPS, or you click on GPS with right mouse button, then first GPS point will be;Если вы нажмёте Ctrl+GPS, или нажмёте на GPS правой кнопкой мыши, тогда первым пунктом GPS будет
+loading base, selected in "Job log" list and sended to you by dispatcher.;база загрузки, выбранная в списке "Job log" и присланная вам диспетчером.
+If you press Shift+GPS, then first and only GPS point will be base selected in Source field.;Если вы нажмёте Shift+GPS, тогда первым и единственным пунктом GPS будет база, выбранная в поле Source.
+If you press Alt+GPS, then first GPS point will be base that nearest to your trailer;Если вы нажмёте Alt+GPS, тогда первым пунктом GPS будет ближайшая к вашему прицепу база
+(in case you forget where your trailer).;(в случае если вы забыли, где находится ваш прицеп).
+Also this button prepares all info for notebook (see "Notebook" button).;Также при нажатии на эту кнопку подготавливается вся необходимая информация для ноутбука (см. кнопку "Notebook").
+Send the info prepared by the GPS button to notebook.;Посылает подготовленную ранее (кнопкой GPS) информацию в ноутбук.
+Call the dispatcher.;Звонок диспетчеру.
+Each call takes some money (your debt increases).;Каждый звонок требует небольшой оплаты (ваш долг растёт).
+Dispatcher config.;Конфигурация диспетчера.
+Config of IN and OUT cargoes for all bases.;Конфигурация входящих и исходящих грузов для всех компаний.
+This config is stored in two files: companies_in.txt and companies_out.txt.;Эта конфигурация сохраняется в двух файлах: companies_in.txt и companies_out.txt.
+Each time when you run the program or press Reload button the program updates;Каждый раз при запуске программы или нажатии на кнопку Reload программа обновляет
+these two files according to current savegame.;эти два файла в соответствии с сейвом.
+Log of loading, unloading and dispatcher messages.;Лог загрузки, выгрузки и сообщений диспетчера.
+Log of the program.;Лог программы.
+Shows current game time, experiens points, driving time and some info.;Показывает текущее игровое время, баллы опыта (XP), продолжительность вождения (DT) и др. информацию.
+You can click on current time to move the clock forward a little.;Вы можете нажать на текущее время для небольшого перевода времени вперёд.
+Driving time resets to zero when continuous game time ticking was more than 4.5 or 9 hours.;Продолжительность вождения сбрасывается в ноль когда непрерывный ход времени составил более 4.5 или 9 часов.
+If sleeping_time value is positive then Driving time resets to zero when continuous game time ticking was more than sleeping_time minutes.;Если sleeping_time - положительное, то время вождения сбрасывается в ноль когда непрерывный ход времени составил более sleeping_time минут.
+If sleeping_time value is negative then Driving time decreases by ticking time.;Если sleeping_time - отрицательное, то время вождения уменьшается на время, затраченное на то или иное действие (загрузка, разгрузка, перемотка времени).
+Select a trailer and you can see its accessories.;Выберите прицеп и вы увидите его аксессуары.
+You can manually edit each accessory or use default values.;Вы можете вручную ввести каждый аксессуар или использовать значения по умолчанию.
+Number of axles.;Количество осей.
+For trailers with steerable axles you need manually edit defs;Для прицепов с поворотными осями вы должны вручную отредактировать дефы
+and offsets of the wheels (see Accessories list in the main window).;и смещения (offset) колёс (см. список Accessories в главном окне программы).
+Sometimes there are trailers that need additional accessory (gooseneck, for example).;Иногда попадаются прицепы, которым нужен дополнительный аксессуар (gooseneck, к примеру).
+Used to generate a license plate.;Используется для генерации номерного знака.
+Generated license plate. Depending on the country.;Сгенерированный номерной знак. Зависит от страны.
+If empty, then license plate generated automatically when you press Buy trailer button.;Если пусто, то номерной знак генерируется автоматически при нажатии на кнопку Buy trailer.
+Used for identify your trailer (at the repairing time and for store trailer's position).;Используется для идентификации вашего прицепа (во время ремонта и для сохранения координат прицепа).
+Maximum allowed total cargo mass in the trailer.;Максимальная разрешённая общая масса груза в прицепе.
+When dispatcher starts searching for loading base, it looks in this radius from your truck.;Когда диспетчер ищет базу загрузки, он ищет в данном радиусе от вашего трака.
+When dispatcher starts searching for unloading base, it looks so that unloading base;Когда диспетчер ищет базу выгрузки, он ищет так, чтобы база выгрузки
+was located in this radius from your other unloading bases (see Current job list).;была расположена в данном радиусе от других, уже имеющихся, баз выгрузки (см. список Current job).
+Dispatcher eliminates the jobs, if the distance from loading base to unloading base less than this value.;Диспетчер отсеивает задания, если расстояние от базы загрузки до базы выгрузки меньше, чем это значение.
+Dispatcher eliminates the jobs, if the distance from loading base to unloading base exceeds this value.;Диспетчер отсеивает задания, если расстояние от базы загрузки до базы выгрузки превышает это значение.
+If value is zero then dispatcher does not account the distance.;Если значение равно нулю, то диспетчер не учитывает расстояние.
+Dispatcher search nearest to you loading base, and nearest to your other unloading places unloading base.;Диспетчер ищет ближайшую к вам базу загрузки, и ближайшую к другим пунктам выгрузки базу выгрузки.
+Employer mode means that you are working for selected bases only.;Режим "работодателя" означает, что вы работаете только на выбранные компании.
+There are two directions in this mode:;В данном режиме есть два направления:
+ - from employer to everywhere; - от работодателя ко всем
+ - from everywhere to employer.; - от всех к работодателю.
+Cities filter.;Фильтр городов.
+In non-employer mode dispatcher search jobs only for selected cities and bases.;В обычном режиме (не Employer) диспетчер ищет задания только для выбранных городов и компаний.
+In employer mode, selected cities and bases are your employer.;В режиме "работодателя" выбранные города и компании являются вашим работодателем.
+Bases filter.;Фильтр компаний.
+Cities presets are for convenience only.;Пресеты городов сделаны только для удобства.
+You can check any cities and then save them as preset.;Вы можете выбрать (галками) любые города и затем сохранить их как пресет.
+Save checked cities as preset.;Сохраняет выбранные (галками) города как пресет.
+Remove selected preset.;Удаляет выбранный пресет.
+Check cities according to selected preset.;Ставит галки в соответствии с пресетом.
+Uncheck cities according to selected preset.;Убирает галки в соответствии с пресетом.
+Configure dispatcher cargoes (cargoes available for a trailer).;Конфигурация грузов для диспетчера (грузов, доступных для прицепа).
+Dispatcher must know what cargoes are available for your current trailer.;Диспетчер должен знать, какие грузы доступны для вашего текущего прицепа.
+If he does not know it, he will not be able to find any job for you!;Если он не будет знать этого, он не сможет найти вам задание!
+List of bases (companies).;Список баз (компаний).
+This list is created on the basis of all GPS files, not the savegame!;Этот список создан на основе всех GPS файлов, но не сейва!
+IN cargoes for selected company.;Входящие (IN) грузы для выбранной компании.
+Double-click to check/uncheck same cargo in OUT cargoes list.;Двойной клик для выбора того же груза в списке исходящих (OUT) грузов.
+OUT cargoes for selected company.;Исходящие (OUT) грузы для выбранной компании.
+This list also used for presets and cargo COG settings.;Этот список также используется для пресетов и настройки COG груза.
+Cargoes presets are for convenience only.;Пресеты грузов сделаны только для удобства.
+Works only with Cargoes OUT list!;Работают только со списком Cargoes OUT!
+You can check any cargoes and then save them as preset.;Вы можете выбрать (галками) какие угодно грузы и затем сохранить их как пресет.
+Save checked cargoes in Cargoes OUT list as preset.;Сохраняет выбранные галками грузы в списке Cargoes OUT как пресет.
+Remove selected preset.;Удаляет выбранный пресет.
+Check IN cargoes according to selected preset.;Ставит галки в списке Cargoes IN в соответствии с пресетом.
+Uncheck IN cargoes according to selected preset.;Убирает галки в списке Cargoes IN в соответствии с пресетом.
+Check OUT cargoes according to selected preset.;Ставит галки в списке Cargoes OUT в соответствии с пресетом.
+Uncheck OUT cargoes according to selected preset.;Убирает галки в списке Cargoes OUT в соответствии с пресетом.
+This line will be written to companies_in.txt file.;Эта строка будет записана в файл companies_in.txt.
+This line will be written to companies_out.txt file.;Эта строка будет записана в файл companies_out.txt.
+COG (center of gravity) settings for selected cargo.;Настройки COG (центра масс) для выбранного груза.
+If you need to store new GPS point, you must do the following:;Если вам нужно сохранить новую позицию GPS, вы должны сделать следующее:
+  1) in the game set GPS marker 1 at desired position and save your savegame;  1) в игре установить первый GPS маркер в желаемую позицию и сохранить игру
+  2) in the program press Reload button and then Store GPS button;  2) в программе нажать кнопки Reload и затем Store GPS
+  3) enter city and company;  3) ввести город и компанию
+  4) choose in what GPS file to store the info and press Save button.;  4) выбрать в каком GPS файле сохранить информацию и нажать Save.
+ATTENTION!;ВНИМАНИЕ!
+The format of city or company is: <alias> (<name>);Формат города или компании: <псевдоним> (<имя>)
+Examples:;Примеры:
+  etc.;  и т.д.
+Shows a companies that are already stored at Marker 1.;Показывает компании, которые уже сохранены в данной позиции.
+It is possible to store more than one companies per one marker.;Допускается хранить более одной компании на одну позицию.
+You can choose in what GPS file new base will be saved.;Вы можете выбрать в каком GPS файле сохранить новую позицию.
+Except - main gps.txt file!;Исключение - главный gps.txt файл!
+In the program's folder you can create your own gps.*.txt files, as many as you want.;В папке с программой вы можете создать ваши собственные gps.*.txt файлы, сколько пожелаете.
+When the program starts (or you press Reload button) all gps.*.txt files will be read.;Когда вы запускаете программу (или нажимаете Reload), все gps.*.txt файлы будут прочитаны.
+Select or enter a city.;Выберите или введите город.
+Select or enter a company.;Выберите или введите компанию.
+Shows IN cargoes for selected company.;Показывает входящие (IN) грузы для выбранной компании.
+Just for convenience.;Только для удобства.
+Shows OUT cargoes for selected company.;Показывает исходящие (OUT) грузы для выбранной компании.
+This line will be written to selected GPS file.;Эта строка будет записана в выбранный GPS файл.
+Use all markers for the same company in the same city.;Использовать все маркеры для одной и той же компании в одном и том же городе.
+Trailers identify.;Идентификация прицепов.
+You can select existing trailer or write new chassis name - full or part.;Вы можете выбрать существующий прицеп или вписать новое наименование шасси - полное или частичное.
+ 1) "coolliner" - all trailers that have "coolliner" word in their chassis name or last accessory name will be found by dispatcher;  1) "coolliner" - все прицепы, у которых слово "coolliner" есть в наименовании шасси или последнего аксессуара, будут найдены диспетчером
+ 2) "profiliner/chassis" - all trailers that have "profiliner/chassis" word in their chassis name or last accessory name will be found by dispatcher;  2) "profiliner/chassis" - все прицепы, у которых слово "profiliner/chassis" есть в наименовании шасси или последнего аксессуара, будут найдены диспетчером
+ 3) "gooseneck/empty" - all trailers that have "gooseneck/empty" word in their chassis name or last accessory name will be found by dispatcher.;  3) "gooseneck/empty" - все прицепы, у которых слово "gooseneck/empty" есть в наименовании шасси или последнего аксессуара, будут найдены диспетчером.
+Last line have more priority.;Последняя строка имеет больший приоритет.
+For example, if your last two lines are:;К примеру, если у вас последние две строки такие:
+... then dispatcher uses cargoes from last defined trailer (boxes).;... то диспетчер использует грузы из последнего прописанного прицепа (boxes).
+Cargoes for selected trailer.;Грузы для выбранного прицепа.
+Remove selected trailer's definition.;Удаляет прописку выбранного прицепа.
+This line will be written to dispatcher_cargoes.txt file.;Эта строка будет записана в файл dispatcher_cargoes.txt.
+Configure hotkeys for using some program's functions directly from the game.;Конфиг горячих клавиш для использования некоторых функций программы непосредственно из игры.
+These hotkeys are for using some program's functions directly from the game.;Эти горячие клавиши предназначены для использования некоторых функций программы непосредственно из игры.
+Press the desired key, and then save them.;Нажмите на желаемые клавиши и затем сохраните их.
+Click here to clear the hotkeys string.;Кликните, чтобы очистить строку горячих клавиш.
+Saves current hotkeys string for "Call dispatcher" function.;Сохраняет текущую строку горячих клавиш для функции "Call dispatcher".
+Saves current hotkeys string for "Sign contract" function.;Сохраняет текущую строку горячих клавиш для функции "Sign contract".
+Saves current hotkeys string for "Unload" function.;Сохраняет текущую строку горячих клавиш для функции "Unload".
+Message from dispatcher will be available also in the game log/console.;Сообщение от диспетчера будет доступно также и в логе игры/консоли.
+Saves current hotkeys string for show latest 5 messages from "Job log" list.;Сохраняет текущую строку горячих клавиш для функции показа 5-ти последних сообщений из списка "Job log".
+You can see them in the game log/console.;Вы можете увидеть их в логе игры/консоли.
+Shows schedule of unloading base and distance from your current trailer to unloading base.;Показывает расписание базы выгрузки и расстояние от текущего прицепа до неё.
+Shows schedule of loading or unloading base (if present).;Показывает расписание базы загрузки или выгрузки (если имеется).
+Shows nearest base (and distance) to selected trailer (if coordinates of the trailer are stored).;Показывает ближайшую к выбранному прицепу базу и расстояние до неё (если координаты прицепа сохранены).
+If empty then the coordinates of the trailer are not stored.;Если пусто, значит координаты прицепа не сохранены.
+You are trying to load the cargo whose mass exceeds Mass limit (see Dispatcher config)!;Вы пытаетесь загрузить груз, масса которого превышает лимит массы (Mass limit, см. Dispatcher config)!
+The trailer is fully loaded!;Прицеп полностью загружен!
+There is nothing to unloading! The Current job list is empty!;Выгружать нечего! Список Current job пуст!
+You can not sell the trailer with cargo!;Вы не можете продать прицеп с грузом!
+You can not sell the trailer with slave trailer!;Вы не можете продать прицеп, имеющий ведомый прицеп!
+Dispatcher job not selected!;Задание от диспетчера не выбрано!
+Done! Reload you save please...;Готово! Пожалуйста, перезагрузите ваш сейв...
+The coordinates of selected trailer will be erased!;Координаты выбранного прицепа будут стёрты!
+Are you sure?;Вы уверены?
+Double-click to erase stored coordinates.;Двойной клик для стирания сохранённых координат.
+ Payment to dispatcher: ; Плата диспетчеру: 
+ Payment from employer: ; Бонус от работодателя: 
+Cargo [%s] from [%s] for [%s] was unloaded. Your income: %s. Your XP: %s.;Груз [%s] из [%s] в [%s] был выгружен. Прибыль: %s. Опыт: %s.
+Specify the path to the game.sii file...;Укажите путь к файлу game.sii...
+File %s\game.sii does not exist!;Файл %s\game.sii не существует!
+Do you really want to cancel selected job?;Вы действительно хотите отказаться от выбранного задания?
+You will have to pay a penalty fee of %d.;Вам придётся заплатить неустойку в размере %d.
+Your experience points (XP) will be decreased by %d.;Ваш опыт (XP) будет уменьшен на %d.

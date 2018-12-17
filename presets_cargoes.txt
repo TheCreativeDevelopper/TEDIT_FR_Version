@@ -1,0 +1,3 @@
+Cars=mini_jtz,fabia_jtz,cars_big,cars_fr,cars_mix,cars_small,mondeos,volvo_cars
+Containers=truck_batt_c,truck_rims_c,wshavings,sawpanels,pet_food_c,carrots_c,motor_oil_c,beverages_c,clothes_c,paper,used_plast_c,rice_c,salt_spice_c,oil_filt_c,brake_fluid,vinegar_c,plast_film_c,chem_sorb_c,apples_c
+Roadworks=bulldozer,driller,excav_soil,gravel,roadroller,roller,refl_posts,digger1000,digger500,diggers,excavator
