@@ -1,5 +1,5 @@
 # TEDIT_8.0_FR_Version
-Owned Trailers Editors
+>Owned Trailers Editor
 
 Attention!
 TEDIT est destiné aux utilisateurs avancés uniquement.
@@ -20,4 +20,4 @@ Pre-requis Installation :
 
 Donations :
 
-Vous pouvez soutenir le travail effectuées en me fesant une petit donation :D
+Vous pouvez [soutenir](https://www.paypal.me/tfrpcommunity) le travail effectuées en me fesant une petit donation :D
