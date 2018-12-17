@@ -1,0 +1,29 @@
+[Officiel] Melangeuse de Ciment,/def/vehicle/trailer/cement_mixer/chassis.sii,3,/def/vehicle/t_wheel/single.sii,30000
+[Officiel] Transport de Ciment,/def/vehicle/trailer/cement/chassis.sii,3,/def/vehicle/t_wheel/single.sii,51000
+[Officiel] Transport de Camions,/def/vehicle/trailer/truck_transporter/chassis.sii,3,/def/vehicle/t_wheel/single.sii,59000
+[Officiel] Transport de Voiture,/def/vehicle/trailer/car_transporter/chassis.sii,2,/def/vehicle/t_wheel/cartrans.sii,52000
+[Officiel] Transport de Produits Chimique,/def/vehicle/trailer/chemical_cistern/chassis.sii,3,/def/vehicle/t_wheel/single.sii,62000
+[Officiel] Transport d'aliments,/def/vehicle/trailer/food_cistern/chassis.sii,3,/def/vehicle/t_wheel/single.sii,57000
+[Officiel] Transport de Carburants,/def/vehicle/trailer/fuel_cistern/chassis.sii,3,/def/vehicle/t_wheel/single.sii,52000
+[Officiel] Transport de Vitres,/def/vehicle/trailer/glass_trailer/chassis.sii,3,/def/vehicle/t_wheel/single.sii,70000
+[Officiel] Transport de Vaches,/def/vehicle/trailer/livestock/chassis.sii,3,/def/vehicle/t_wheel/single.sii,120000
+[Officiel] Transport de Bois,/def/vehicle/trailer/log_trailer/chassis.sii,3,/def/vehicle/t_wheel/single.sii,37000
+[Officiel] Plateau Porte-Engin Overweight,/def/vehicle/trailer/overweight/chassis.sii,3,/def/vehicle/t_wheel/overweight.sii,42000
+[Officiel] Remorque A Chevalet,/def/vehicle/trailer/panel_transporter/chassis.sii,2,/def/vehicle/t_wheel/single.sii,15000
+[Officiel] Benne Schmitz S.KI Solid,/def/vehicle/trailer/s_ki_solid/chassis.sii,3,/def/vehicle/t_wheel/single.sii,35000
+[Officiel] Benne Schmitz Universal,/def/vehicle/trailer/schmitz/universal/chassis.sii,3,/def/vehicle/t_wheel/385_65_r22_5.sii,32000
+[NewOfficiel] Plateau avec Ridelles,/def/vehicle/trailer/brick_trailer/chassis.sii,3,/def/vehicle/t_wheel/single.sii,44200
+[NewOfficiel] Transport de Camionnettes,/def/vehicle/trailer/van_transporter/chassis.sii,3,/def/vehicle/t_wheel/cartrans.sii,59000,/def/vehicle/trailer/van_transporter/iveco_daily.sii
+[NewOfficiel] Transport de Carburants,/def/vehicle/trailer/willig/fuel_cistern/chassis.sii,3,/def/vehicle/t_wheel/single_385_55_steel.sii,69000
+[DLC] Krone BoxLiner,/def/vehicle/trailer/krone/boxliner/chassis.sii,3,/def/vehicle/t_wheel/krone_385_65_r22_5.sii,41000
+[DLC] Krone CoolLiner,/def/vehicle/trailer/krone/coolliner/chassis.sii,3,/def/vehicle/t_wheel/krone_385_65_r22_5.sii,49000
+[DLC] Krone Dryliner,/def/vehicle/trailer/krone/coolliner/chassis.sii,3,/def/vehicle/t_wheel/krone_385_65_r22_5.sii,53000
+[DLC] Krone ProfiLiner,/def/vehicle/trailer/krone/profiliner/chassis.sii,3,/def/vehicle/t_wheel/krone_385_65_r22_5.sii,30000
+[DLC] Krone ProfiLiner HD,/def/vehicle/trailer/krone/profiliner_hd/chassis.sii,3,/def/vehicle/t_wheel/krone_385_65_r22_5.sii,30000
+[DLC] Schwarzmuller Curtain,/def/vehicle/trailer/schw_curtain/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/single.sii,38000
+[DLC] Schwarzmuller Food cistern,/def/vehicle/trailer/schw_cistern_food/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/single.sii,59000
+[DLC] Schwarzmuller Log trailer,/def/vehicle/trailer/schw_slidepost/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/single.sii,41000
+[DLC] Schwarzmuller Overweight,/def/vehicle/trailer/schw_overweight/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/overweight.sii,45000
+[DLC] Schwarzmuller Reefer,/def/vehicle/trailer/schw_reefer/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/single.sii,54000
+[OWNED] Plateau Transport Attachable,/def/vehicle/trailer_owned/scs.flatbed/chassis/ch_3_hook.sii,3,/def/vehicle/t_wheel/single.sii,90000,/def/vehicle/trailer_owned/scs.flatbed/data.sii
+[OWNED] En Mise a jour
