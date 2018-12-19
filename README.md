@@ -24,6 +24,4 @@ Ce n'est pas un mod. Ceci est un programme permettant d’éditer facilement une
 
 ### Pre-requis Installation :
 
-1. Dans le fichier config.cfg principal du paramètre de jeu g_save_format doit être "2"!
-2. Extrayer le dossier Zip télechargée en entier dans l'un de vos profiles ainsi que dans la save ou vous voulez modifier créer vos remorques.
-3. Ouvrez le fichier "tedit_v8.0_Reedited_byTonySerum.exe" et faites vos petits affaire.
+Visitez le [Wiki](https://github.com/TonySerum/TEDIT_8.0_FR_Version/wiki/Proc%C3%A9dure-d'installation) pour plus d'informations ...
