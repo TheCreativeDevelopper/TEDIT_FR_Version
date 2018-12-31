@@ -114,7 +114,7 @@
 [222];[Apostrophe]
 
 @@kg@@;кг
-@@Week@@;Неделя
+@@Week@@;н.
 @@Mon@@;Пн
 @@Tue@@;Вт
 @@Wed@@;Ср
@@ -168,7 +168,9 @@ till;до
 Mileage:;Километраж:
 If you are interested in this offer, we are glad to see you in our office, in;Если Вас заинтересовало это предложение, мы будем рады видеть Вас в нашем офисе, в
 There is company job;Есть задание
+Job;Задание
 Loading at;Загрузка в
+Unloading at;Выгрузка в
 There is no jobs yet;Загрузок пока нет
 Call later;Позвоните позже
 Call in an hour;Позвоните через час
@@ -206,11 +208,16 @@ Your debt is;Ваш долг составляет
 Do you want to save this call?;Вы хотите сохранить этот звонок?
 The call from the dispatcher restored. Wait ...;Звонок от диспетчера восстановлен. Ожидайте...
 Penalty for %d-th in a row call the dispatcher is %d! Your debt now is %d.;Пеня за %d-й подряд вызов диспетчера составляет %d! Сейчас Ваш долг составляет %d.
-Job log (latest 5 messages);Job log (последние 5 сообщений)
+Job log (latest 5 messages):;Job log (последние 5 сообщений):
+Signing contract...;Подписание контракта...
+Unloading cargo...;Выгрузка груза...
+Search game jobs...;Поиск игровых заданий...
+Search jobs for your trailer...;Поиск заданий для вашего прицепа...
 Selected trailer is too far from the place of unloading (%d)!;Выбранный прицеп находится слишком далеко от места выгрузки (%d)!
 Selected trailer is too far from the place of loading (%d)!;Выбранный прицеп находится слишком далеко от места погрузки (%d)!
-Distance to unloading place: %d m;Расстояние до места выгрузки: %d м
-Marker 1 is not set!;Маркер 1 не установлен!
+Distance from trailer to unloading place: %d m (%.2f km);Расстояние от прицепа до места выгрузки: %d м (%.2f км)
+Marker 1 is not set or;Маркер 1 не установлен или
+there is no coords.txt file in the program's folder!;нет файла coords.txt в папке с программой!
 Cargo alias not found;Псевдоним груза не найден
 City alias not found;Псевдоним города не найден
 Base alias not found;Псевдоним базы не найден
@@ -231,7 +238,7 @@ When there comes payment time, all your earnings credited to your money account.
 You can set your own payment interval in game minutes.;Вы можете установить свой собственный интервал выплаты в игровых минутах.
 In config.cfg there are two variables: payment_interval and payment_interval_max.;В файле config.cfg есть две переменные: payment_interval и payment_interval_max.
 For example:;Например:
-payment_interval=10800 - mean that payment interval will be 7 days (7*24*60=10800 minutes).;payment_interval=10800 - означает что интервал выплаты будет 7 дней (7*24*60=10800 минут).
+payment_interval=10080 - mean that payment interval will be 7 days (7*24*60=10080 minutes).;payment_interval=10080 - означает что интервал выплаты будет 7 дней (7*24*60=10080 минут).
 Your current, assigned trailer.;Ваш текущий, назначенный прицеп.
 Can be selected by double-clicking on "Owned trailers" list or enter manually.;Может быть выбран двойным кликом на списке "Owned trailers" или введён вручную.
 Checkbox "Connected" indicates whether the current trailer attached to the truck or not.;Галка "Connected" показывает, прицеплен ли текущий прицеп к траку или нет.
@@ -239,7 +246,7 @@ Dialog to store GPS navigation point.;Диалог для сохранения позиции GPS.
 You need to set Marker 1 on navigation route at the game!;Вы должны в игре установить маркер 1 на навигационном маршруте!
 Completely reload the savegame and program settings.;Полностью перезагружает сейв и настройки программы.
 It is the same as you close the program and then open again.;Это то же самое, что закрыть программу и снова открыть.
-Saves you savegame, current job list, job log list and program settings.;Сохраняет сейв, список "Current job", список "Job log" и настройки программы.
+Saves your savegame, job list, job log list and program settings.;Сохраняет сейв, список "Job list", список "Job log" и настройки программы.
 List of your owned trailers.;Список ваших собственных прицепов.
 Double-click to set the trailer as your current, active trailer (see field "Assigned trailer").;Двойной клик - сделать прицеп текущим, активным (см. поле "Assigned trailer").
 Note: if the trailer is under repair you can not set it as active!;Заметьте: если прицеп находится в ремонте, вы не сможете сделать его активным!
@@ -260,7 +267,13 @@ Adds or removes paint accessory. Usually this is second accessory after chassis.
 Repair status of selected trailer. Shows if trailer is under repair.;Статус ремонта выбранного прицепа. Показывает, находится ли прицеп в ремонте.
 Wear of the trailer from 0.0 (0%) to 1.0 (100%).;Повреждения прицепа от 0.0 (0%) до 1.0 (100%).
 Double-click to repair selected trailer.;Двойной клик - для ремонта выбранного прицепа.
-Total mass of all cargoes in the trailer.;Общая масса всех грузов в прицепе.
+Total mass of all cargoes in selected trailer (saved in savegame).;Общая масса всех грузов в выбранном прицепе (сохраняется в сейве).
+ATTENTION! In case of multiply trailer this mass can be distributed;ВНИМАНИЕ! В случае мульти-прицепа эта масса может быть распределена
+between selected trailer and its parent trailer!;между выбранным прицепом и его ведущим прицепом!
+See also total cargo mass in job list (Job list cargo mass);См. также общую массу грузов в списке заданий (Job list cargo mass) 
+and total cargo mass in the roadtrain (Roadtrain cargo mass).;и общую массу грузов в автопоезде (Roadtrain cargo mass).
+Total cargo mass in the roadtrain.;Общая масса грузов в автопоезде.
+Total cargo mass in job list.;Общая масса грузов в списке заданий.
 Buy a trailer.;Купить прицеп.
 Trailer are stored in trailers.txt file.;Прицепы хранятся в файле trailers.txt.
 Sell selected trailer.;Продать выбранный прицеп.
@@ -302,7 +315,13 @@ If you press Alt+GPS, then first GPS point will be base that nearest to your tra
 Also this button prepares all info for notebook (see "Notebook" button).;Также при нажатии на эту кнопку подготавливается вся необходимая информация для ноутбука (см. кнопку "Notebook").
 Send the info prepared by the GPS button to notebook.;Посылает подготовленную ранее (кнопкой GPS) информацию в ноутбук.
 Call the dispatcher.;Звонок диспетчеру.
+Left click - dispatcher is looking for cargoes that are suitable for your selected trailer.;Левый клик - диспетчер ищет грузы, подходящие для вашего выбранного прицепа.
 Each call takes some money (your debt increases).;Каждый звонок требует небольшой оплаты (ваш долг растёт).
+Right click - dispatcher is looking for game jobs.;Правый клик - диспетчер ищет игровые задания.
+If Assigned trailer field is empty, "null" or is not included in your owned trailers list;Если поле Assigned trailer пустое, "null" или не входит в список ваших собственных прицепов,
+then dispatcher also is looking for game jobs.;то диспетчер также ищет игровые задания.
+In the case of searching for game jobs, the dispatcher's services are paid from SCS's pocket.;В случае поиска игровых заданий, услуги диспетчера оплачиваются из кармана SCS.
+You must specify the path to the game.sii file!;Вы должны указать путь к файлу game.sii!
 Dispatcher config.;Конфигурация диспетчера.
 Config of IN and OUT cargoes for all bases.;Конфигурация входящих и исходящих грузов для всех компаний.
 This config is stored in two files: companies_in.txt and companies_out.txt.;Эта конфигурация сохраняется в двух файлах: companies_in.txt и companies_out.txt.
@@ -325,7 +344,12 @@ Used to generate a license plate.;Используется для генерации номерного знака.
 Generated license plate. Depending on the country.;Сгенерированный номерной знак. Зависит от страны.
 If empty, then license plate generated automatically when you press Buy trailer button.;Если пусто, то номерной знак генерируется автоматически при нажатии на кнопку Buy trailer.
 Used for identify your trailer (at the repairing time and for store trailer's position).;Используется для идентификации вашего прицепа (во время ремонта и для сохранения координат прицепа).
-Maximum allowed total cargo mass in the trailer.;Максимальная разрешённая общая масса груза в прицепе.
+Maximum allowed total cargo mass in selected trailer.;Максимальная разрешённая общая масса груза в выбранном прицепе.
+ATTENTION! If mass limit for selected trailer is specified;ВНИМАНИЕ! Если лимит массы для выбранного прицепа задан 
+in the mass_limit.txt file, then it will be used!;в файле mass_limit.txt, то будет использоваться именно он!
+If specified then will be used this value.;Если задано, то будет использоваться это значение.
+If empty then will be used value from "Mass limit" field in Dispatcher config window.;Если пусто, то будет использоваться значение поля "Mass limit" в конфиге диспетчера.
+These values are stored in mass_limit.txt file.;Эти значения сохраняются в файле mass_limit.txt.
 When dispatcher starts searching for loading base, it looks in this radius from your truck.;Когда диспетчер ищет базу загрузки, он ищет в данном радиусе от вашего трака.
 When dispatcher starts searching for unloading base, it looks so that unloading base;Когда диспетчер ищет базу выгрузки, он ищет так, чтобы база выгрузки
 was located in this radius from your other unloading bases (see Current job list).;была расположена в данном радиусе от других, уже имеющихся, баз выгрузки (см. список Current job).
@@ -357,7 +381,7 @@ Double-click to check/uncheck same cargo in OUT cargoes list.;Двойной клик для в
 OUT cargoes for selected company.;Исходящие (OUT) грузы для выбранной компании.
 This list also used for presets and cargo COG settings.;Этот список также используется для пресетов и настройки COG груза.
 Cargoes presets are for convenience only.;Пресеты грузов сделаны только для удобства.
-Works only with Cargoes OUT list!;Работают только со списком Cargoes OUT!
+The preset is created on the basis of Cargoes OUT list!;Пресет создаётся на основе списка Cargoes OUT!
 You can check any cargoes and then save them as preset.;Вы можете выбрать (галками) какие угодно грузы и затем сохранить их как пресет.
 Save checked cargoes in Cargoes OUT list as preset.;Сохраняет выбранные галками грузы в списке Cargoes OUT как пресет.
 Remove selected preset.;Удаляет выбранный пресет.
@@ -408,10 +432,10 @@ Click here to clear the hotkeys string.;Кликните, чтобы очистить строку горячих 
 Saves current hotkeys string for "Call dispatcher" function.;Сохраняет текущую строку горячих клавиш для функции "Call dispatcher".
 Saves current hotkeys string for "Sign contract" function.;Сохраняет текущую строку горячих клавиш для функции "Sign contract".
 Saves current hotkeys string for "Unload" function.;Сохраняет текущую строку горячих клавиш для функции "Unload".
-Message from dispatcher will be available also in the game log/console.;Сообщение от диспетчера будет доступно также и в логе игры/консоли.
+The message will be available also in the game log/console.;Сообщение будет доступно также в логе игры/консоли.
 Saves current hotkeys string for show latest 5 messages from "Job log" list.;Сохраняет текущую строку горячих клавиш для функции показа 5-ти последних сообщений из списка "Job log".
 You can see them in the game log/console.;Вы можете увидеть их в логе игры/консоли.
-Shows schedule of unloading base and distance from your current trailer to unloading base.;Показывает расписание базы выгрузки и расстояние от текущего прицепа до неё.
+Shows schedule of unloading base, time of delivery, distance in a straight line from selectet trailer to unloading base.;Показывает расписание базы выгрузки, срок доставки, расстояние по прямой от выбранного прицепа до базы выгрузки.
 Shows schedule of loading or unloading base (if present).;Показывает расписание базы загрузки или выгрузки (если имеется).
 Shows nearest base (and distance) to selected trailer (if coordinates of the trailer are stored).;Показывает ближайшую к выбранному прицепу базу и расстояние до неё (если координаты прицепа сохранены).
 If empty then the coordinates of the trailer are not stored.;Если пусто, значит координаты прицепа не сохранены.
@@ -433,3 +457,46 @@ File %s\game.sii does not exist!;Файл %s\game.sii не существует!
 Do you really want to cancel selected job?;Вы действительно хотите отказаться от выбранного задания?
 You will have to pay a penalty fee of %d.;Вам придётся заплатить неустойку в размере %d.
 Your experience points (XP) will be decreased by %d.;Ваш опыт (XP) будет уменьшен на %d.
+Total cargo mass:;Общая масса груза:
+Game job;Игровое задание
+Job expiration time:;Истекает в:
+Distance: %s km;Расстояние: %s км
+Such license plate has already been issued!;Такой номерной знак уже выдан!
+Please generate another license plate.;Пожалуйста сгенерируйте другой номерной знак.
+WARNING! The license plate number of trailer "%s" already exists!;ВНИМАНИЕ! Номерной знак прицепа "%s" уже существует!
+Saves current hotkeys string for search game jobs by dispatcher.;Сохраняет текущую строку горячих клавиш для поиска диспетчером игровых заданий.
+ATTENTION! You must first save your savegame in the game and immediately;ВНИМАНИЕ! Вы должны сперва сохранить ваш сейв в игре и сразу же
+press a hotkey. Otherwise this function will not work!;нажать горячую клавишу. Иначе эта функция не сработает!
+Between saving a game and pressing this hotkey, you have "savegame_age" seconds (see config.cfg file)!;Между сохранением игры и нажатием на эту горячую клавишу у вас есть "savegame_age" секунд (см. файл config.cfg)!
+Between saving a game and pressing this hotkey, you have "savegame_age_gamejobs" seconds (see config.cfg file)!;Между сохранением игры и нажатием на эту горячую клавишу у вас есть "savegame_age_gamejobs" секунд (см. файл config.cfg)!
+WARNING! Savegame is too old! You must first save your game and within %d seconds press a hotkey!;ВНИМАНИЕ! Сейв уже устаревший! Вы должны сперва сохранить игру и в течение %d секунд нажать горячую клавишу!
+Penalty: %d and %d XP. Delay: %d minutes. Cargo wear: %.2f;Штраф: %d и %d XP. Опоздание: %d минут. Повреждения груза: %.2f.
+(~%d km);(~%d км)
+This checkbox shows whether the trailer is rear loading trailer or not.;Этот флажок показывает, является ли прицеп прицепом с задней загрузкой или нет.
+This line lists all trailers with rear loading.;В этой строке перечислены все прицепы с задней загрузкой.
+It is saved in the config.cfg file (see "stack_trailers" parameter).;Сохраняется в файле config.cfg (см. параметр "stack_trailers").
+If there is a coords.txt file (see GPS Extractor) in the program folder,;Если в папке с программой есть файл coords.txt (см. GPS Extractor),
+then you can use corrected (according to coords.txt file) truck coordinates.;то в качестве координат можно использовать скорректированные (согласно файлу coords.txt) координаты трака.
+Use corrected (according to coords.txt file) truck coordinates.;Использовать скорректированные (согласно файлу coords.txt) координаты трака.
+Next payment time: %s;Следующее время выплаты: %s
+Earning: %d;Заработок: %d
+Debt: %d;Долг: %d
+You must drive near to the green company marker!;Вы должны подъехать к зелёному маркеру компании!
+Head to any free ramp.;Направляйтесь к любой свободной рампе.
+Head to the ramp #%d. If the ramp is busy, get to the nearest free ramp.;Направляйтесь к рампе #%d. Если рампа занята, становитесь к ближайшей свободной рампе.
+Saves current hotkeys string for ask at the reception about the number of the ramp.;Сохраняет текущую строку горячих клавиш для запроса у стойки регистрации о номере рампы.
+Works only if the number of ramps is specified for the "city, company" combination.;Работает только если для комбинации "город, компания" будет указано количество рамп.
+The number of ramps for the "city, company" combination (click to edit).;Количество рамп для комбинации "город, компания" (кликните для редактирования).
+Saved in ramps.txt file. Can be specified or not specified.;Сохраняется в файле ramps.txt. Может быть указано или не указано.
+If specified, then when you arrive at the company marker,;Если указано, то по прибытии к маркеру компании,
+you can press the Reception hotkey to get the ramp number.;вы можете нажать горячую клавишу Reception для получения номера рампы.
+Sometimes it becomes necessary to limit the weight of a cargo.;Иногда возникает необходимость ограничить массу того или иного груза.
+This field is intended just for this.;Это поле предназначено как раз для этого.
+    
+Fast loading cargoes have a shorter loading/unloading time - from 15 to 60 minutes.;Быстрозагружаемые грузы имеют меньшее время загрузки/выгрузки - от 15 до 60 минут.
+Specific cargoes have increased (x1.25) payment rate.;Особые грузы имеют увеличенную (x1.25) ставку оплаты.
+Stored in config.cfg file.;Хранятся в файле config.cfg.
+Left click - copy cargoes from this line into Cargoes OUT list.;Левый клик - копировать грузы из этой строки в список Cargoes OUT.
+Right click - copy selected cargoes from Cargoes OUT list into this line.;Правый клик - копировать выбранные грузы из списка Cargoes OUT в эту строку.
+To save these lines press "Save fast loading and specific cargoes" button.;Чтобы сохранить эти строки нажмите кнопку "Save fast loading and specific cargoes".
+Bonus from company: %d.;Бонус от компании: %d.

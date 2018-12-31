@@ -843,3 +843,108 @@ cargo.mystery_cyl;High-Tech Device
 cargo.pilot_boat;Service Boat
 cargo.silo;Giant Silo
 tesore_gust;Tesoro Gustoso
+
+daugavpils;Daugavpils
+helsinki;Helsinki
+kaliningrad;Kaliningrad
+kaunas;Kaunas
+klaipeda;Klaipeda
+kotka;Kotka
+kouvola;Kouvola
+kunda;Kunda
+lahti;Lahti
+liepaja;Liepaja
+loviisa;Loviisa
+luga;Luga
+mazeikiai;Mažeikiai
+naantali;Naantali
+narva;Narva
+olkiluoto;Olkiluoto
+paldiski;Paldiski
+panevezys;Panevežys
+parnu;Pärnu
+petersburg;Saint Petersburg
+pori;Pori
+pskov;Pskov
+rezekne;Rezekne
+riga;Riga
+siauliai;Šiauliai
+sosnovy_bor;Sosnovy Bor
+tallinn;Tallinn
+tampere;Tampere
+tartu;Tartu
+turku;Turku
+utena;Utena
+valmiera;Valmiera
+ventspils;Ventspils
+vilnius;Vilnius
+vyborg;Vyborg
+////Companies////////////////
+aerobalt;AeroBaltica
+aerobalt_ru;AeroBaltica
+agrominta;Agrominta UAB
+agrominta_a;Agrominta UAB
+ateria;Ateria AS
+baltomorsk;Baltomorsk
+baltomors_ru;Baltomorsk
+blt;BLT
+bltmetal;Baltic Metallurgy
+bltmetal_ru;Baltic Metallurgy
+blt_ru;BLT
+blt_yacht;Balteus Yachts
+blt_yacht_ru;Balteus Yacths
+cemelt_bas;Cemeltex
+cemelt_fla;Cemeltex
+cemelt_fl_ru;Cemeltex
+cemelt_hal;Cemeltex
+cemelt_win;Cemeltex
+cont_port_ru;Container Port
+domdepo;DomDepo
+domdepo_ru;DomDepo
+ee_paper;Estonian Paper AS
+egres;Maatila Egres
+eviksi;Evikši ZS
+eviksi_a;Evikši ZS
+fintyre;Finnish Tyres
+fintyre_ru;Finnish Tyres
+ibp;IBP
+ika_ru;Ika Bohag
+kamen_ru;Kamen
+kivi;Vanha Kivi
+ladoga;Ladoga Auto
+ladoga_ru;Ladoga
+lateds;Lateds
+lintukainen;Lintukainen Oy
+lvr;Latvijas Vagonu Rupnica
+nch;NCH
+nch_ru;NCH
+nosko;Noskonitta
+ns_chem_ru;NS Chem Oil
+ns_oil_ru;NS Oil
+onnelik;Onnelik talu
+onnelik_a;Onnelik talu
+pk_medved_ru;PK Medved
+radus;Radus
+radus_ru;Radus
+renat;Renat
+rosmark;Rosmark
+rosmark_ru;Rosmark
+sal_fi;SAL
+severoatm_ru;Severoatom
+suprema;Suprema
+suprema_ru;Suprema
+ukko;UKKO Voima
+viljo_paper;Viljo Paperitehdas Oy
+viln_paper;Vilniaus Popieriaus Fabrikas
+zelenye;Zelenye Polja
+zelenye_a;Zelenye Polja
+///Cargo names/////////////
+cargo.car_balt1;Cars
+cargo.car_balt2;Cars
+cargo.concr_beams2;Concrete Beams
+cargo.concr_cent;Concrete Centering
+cargo.concr_stair;Concrete Stairs
+cargo.metal_beams;Metal Beams
+cargo.re_bars;Reinforced Bars
+cargo.train_part;Train Parts
+cargo.train_part2;Train Parts

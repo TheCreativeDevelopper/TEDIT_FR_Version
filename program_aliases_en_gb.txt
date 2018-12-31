@@ -114,7 +114,7 @@
 [222];[Apostrophe]
 
 @@kg@@;kg
-@@Week@@;Week
+@@Week@@;w.
 @@Mon@@;Mon
 @@Tue@@;Tue
 @@Wed@@;Wed

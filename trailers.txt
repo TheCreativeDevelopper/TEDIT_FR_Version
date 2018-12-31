@@ -26,4 +26,3 @@
 [DLC] Schwarzmuller Overweight,/def/vehicle/trailer/schw_overweight/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/overweight.sii,45000
 [DLC] Schwarzmuller Reefer,/def/vehicle/trailer/schw_reefer/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/single.sii,54000
 [OWNED] Plateau Transport Attachable,/def/vehicle/trailer_owned/scs.flatbed/chassis/ch_3_hook.sii,3,/def/vehicle/t_wheel/single.sii,90000,/def/vehicle/trailer_owned/scs.flatbed/data.sii
-[OWNED] En Mise a jour
