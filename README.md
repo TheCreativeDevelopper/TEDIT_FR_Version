@@ -1,4 +1,4 @@
-# TEDIT 8.0.1 FR Version pour ETS 1.33
+# TEDIT 8.1 FR Version pour ETS 1.33
 
 > Attention ! TEDIT est destiné aux utilisateurs avancés uniquement, Si vous ne connaissez pas les points suivants ... structure élémentaire du jeu, les possibilités et les limites du jeu, qu'es ce qu'un "mod", le "def", "defs de châssis / roues / cargaisons" et où les trouver quelle est la sauvegarde et où la chercher ... alors vous n'avez rien à faire dans TEDIT! Supprimez TEDIT et oubliez ça!
 
@@ -25,4 +25,5 @@ Ce n'est pas un mod. Ceci est un programme permettant d’éditer facilement une
 ### Pre-requis Installation :
 
 Consultez ma vidéo dédiée à l'installation, [en cliquant ici](https://youtu.be/WsDvuowVPPM)
-Visitez le [Wiki](https://github.com/TonySerum/TEDIT_8.0_FR_Version/wiki/Proc%C3%A9dure-d'installation) pour plus d'informations ...
+
+Visitez le [Wiki | Procédure d'installation](https://github.com/TonySerum/TEDIT_8.0_FR_Version/wiki/Proc%C3%A9dure-d'installation) pour plus d'informations ...
